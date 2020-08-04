@@ -5,7 +5,6 @@ require LIB_PATH.'/pinyin.php';
 
 class ES {
 
-	const INDEX_PRODUCT         = 'product';
 	const ES_INDEX_CREATED_TEXT = 'created';
 	const ES_INDEX_UPDATED_TEXT = 'updated';
 	const ES_INDEX_DELETED_TEXT = 'deleted';
@@ -56,7 +55,7 @@ class ES {
 		$data = json_decode($data, true);
 		$index = $data['index'];
 		switch($index){
-			case self::INDEX_PRODUCT:
+			case INDEX_PRODUCT:
 				self::productInsert($data);
 			break;
 		}
@@ -85,8 +84,8 @@ class ES {
 		$data['tags']        = str_replace($search, $replace, $data['tags']);
 
 		$params = [
-			'index' => self::INDEX_PRODUCT,
-			'type'  => self::INDEX_PRODUCT,
+			'index' => INDEX_PRODUCT,
+			'type'  => INDEX_PRODUCT,
 			'body'  => $data,
 		];
 
@@ -113,7 +112,7 @@ class ES {
 		$index = $data['index'];
 
 		switch($index){
-			case self::INDEX_PRODUCT:
+			case INDEX_PRODUCT:
 				self::productRemove($data);
 			break;
 		}
@@ -126,8 +125,8 @@ class ES {
 
 		$params = [
 			'id'    => $es_id,
-			'index' => self::INDEX_PRODUCT,
-			'type'  => self::INDEX_PRODUCT,
+			'index' => INDEX_PRODUCT,
+			'type'  => INDEX_PRODUCT,
 		];
 		
 		$retval = self::getClientInstance()->delete($params);
