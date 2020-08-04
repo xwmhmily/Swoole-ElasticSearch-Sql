@@ -1,0 +1,6 @@
+Env.php
+log/*
+conf/*
+.idea/*
+library/vendor
+library/composer.lock
