@@ -373,7 +373,6 @@ class Engine {
 		self::$high_price    	   = null;
 		self::$keyword       	   = null;
 		self::$tags          	   = null;
-		self::$is_brand      	   = false;
 		self::$price         	   = false;
 		self::$is_all_letter 	   = false;
 		self::$sort          	   = null;

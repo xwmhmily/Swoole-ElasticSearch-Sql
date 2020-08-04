@@ -3,12 +3,12 @@
 class M_Product extends Model{
 
     public function __construct(){
-        $this->table = TB_PREFIX.'product';
+        $this->table = TB_PREFIX.'products';
         parent::__construct();
     }
 
     public function getAllProductID(){
-        $field = ['product_id'];
+        $field = ['id'];
         $where = ['status' => 1];
         if(ENV == 'DEV'){
             return $this->Field($field)->Where($where)->Limit(1000)->Select();
@@ -19,7 +19,6 @@ class M_Product extends Model{
 
     public function lpush($product_id){
         $product = $this->getProductInfo($product_id);
-        $product_id = $product['product_id'];
 
         if($product){
             $product['index'] = ES::INDEX_PRODUCT;

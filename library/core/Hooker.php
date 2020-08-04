@@ -65,6 +65,12 @@ class Hooker {
 
     // Http onRequest, 将请求路由至控制器
     public static function onRequest(swoole_http_request $request, swoole_http_response $response){
+        if($request->server['request_uri'] == '/favicon.ico') {
+			$response->status(404);
+			$response->end();
+			return;
+		}
+
         $method = strtoupper($request->server['request_method']);
         if($method != Request::HTTP_METHOD_GET && $method != Request::HTTP_METHOD_POST){
             $response->end('Error: Only GET and POST supported now !'); return;

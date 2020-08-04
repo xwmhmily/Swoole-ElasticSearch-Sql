@@ -31,18 +31,22 @@ class C_Product extends Controller{
 
     // Index all products
     public function indexAll(){
-        $product_ids = $this->m_product->getAllProductId();
+        try{
+            $product_ids = $this->m_product->getAllProductId();
 
-        if($product_ids){
-            foreach($product_ids as $product){
-                $this->m_product->lpush($product['product_id']);
+            if($product_ids){
+                foreach($product_ids as $product){
+                    $this->m_product->lpush($product['id']);
+                }
             }
-        }
 
-        $retval = [];
-        $retval['code']  = 1;
-        $retval['error'] = 'Indexing, pls wait ......';
-        return JSON($retval);
+            $retval = [];
+            $retval['code']  = 1;
+            $retval['error'] = 'Indexing, pls wait ......';
+            return JSON($retval);
+        }catch(Throwable $e){
+            return $e->getMessage();
+        }
     }
 
     // Index a categories
