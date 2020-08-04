@@ -30,7 +30,7 @@ class C_Search extends Controller{
             $rep['retval'] = $retval;
             
             $this->header();
-            return JSON($retval);
+            return JSON($rep);
         }catch(Throwable $e){
             return $e->getMessage();
         }
