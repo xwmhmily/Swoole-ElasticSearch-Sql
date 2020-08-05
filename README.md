@@ -24,7 +24,20 @@ https://github.com/xwmhmily/miniHttp
 
 ### 启动
 - cd 至 shell 目录, 执行 sh socket.sh restart 开启 API 服务
+- 启动成功使用 sh socket.sh status 将看到以下进程在默默的等候命令了
+```
+Swoole-ElasticSearch-Sql_master
+Swoole-ElasticSearch-Sql_manager
+Swoole-ElasticSearch-Sql_task
+Swoole-ElasticSearch-Sql_worker
+```
 - cd 至 shell 目录, 执行 sh process.sh 开启后端服务进程
+- 启动成功再次使用 sh socket.sh status 将看到多了两个进程
+```
+Swoole-ElasticSearch-Sql_Insert
+Swoole-ElasticSearch-Sql_Remove
+```
+他们是干嘛的？(⊙v⊙)嗯，用于与 ES 交互，创建索引，索引文档，删除文档，读取队列等
 
 ### 创建索引
 - curl "http://127.0.0.1:8888/product/createIndex"
