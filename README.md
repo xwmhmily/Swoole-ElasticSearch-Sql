@@ -15,3 +15,19 @@
 - 设置 Env.php 中的 ENV 为 'DEV'
 - 配置 conf/DEV.php 中的 MySQL, Redis, ElasticSearch 参数
 - cd 至 library 目录下，运行 composer install 安装 ElasticSearch 官方的客户 PHP SDK
+
+### 启动
+- cd 至 shell 目录, 执行 sh socket.sh restart 开启 API 服务
+- cd 至 shell 目录, 执行 sh process.sh 开启后端服务进程
+
+### 创建索引
+- curl "http://127.0.0.1:8888/product/createIndex"
+
+### 导入数据至 ES
+- curl "http://127.0.0.1:8888/product/indexAll"
+
+### 验证
+- 访问 Kibana, 检查索引和数据是否OK，若有误，请根据 log 下的日志修复再重试
+
+### 搜索
+- cd 至 client 目录, 执行 php http.php

@@ -1,9 +1,9 @@
 <?php
 
-$url = 'http://127.0.0.1:8888/search?keyword=湖人&price=50,1000&tags=复古,紫金&sort=1&category_id=20&brand_id=8';
+$url = 'http://127.0.0.1:8888/search?keyword=美邦&tags=时尚,格子&pricex=1,12550&sort=4';
 
-$products = file_get_contents($url);
+$retval = file_get_contents($url);
 
-print_r($products);
+print_r($retval);
 
 echo PHP_EOL.'__DONE__';
