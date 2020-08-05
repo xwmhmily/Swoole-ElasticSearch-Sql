@@ -41,3 +41,30 @@ SELECT * FROM products WHERE (name LIKE '%美邦%') AND (tags LIKE '%时尚%' AN
 ```
 http://127.0.0.1:8888/search?keyword=%E7%BE%8E%E9%82%A6&tags=%E6%97%B6%E5%B0%9A,%E6%A0%BC%E5%AD%90&pricex=1,12550&sort=4&cursor=49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV3BrOFdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
 ```
+
+### 拼音搜索
+```
+curl "http://127.0.0.1:8888/search?keyword=meibang&price=0,520&sort=3"
+```
+生成的 SQL 是酱紫的
+```
+SELECT * FROM products WHERE (brand_py LIKE '%meibang%' OR brand_pinyin LIKE '%meibang%' OR category_pinyin LIKE '%meibang%' OR category_py LIKE '%meibang%') AND (price <= 520) ORDER BY price ASC
+```
+
+### 只在某个分类下搜索, 指定 category_id
+```
+curl "http://127.0.0.1:8888/search?keyword=meibang&price=100,0&sort=3&category_id=1"
+```
+生成的 SQL
+```
+SELECT * FROM products WHERE category_id = '1' AND (brand_py LIKE '%meibang%' OR brand_pinyin LIKE '%meibang%' OR category_pinyin LIKE '%meibang%' OR category_py LIKE '%meibang%') AND (price >= 100) ORDER BY date_added DESC
+```
+
+### 只在某个品牌下搜索, 指定 brand_id
+```
+curl "http://127.0.0.1:8888/search?keyword=卫衣&price=0,0&sort=1&brand_id=1"
+```
+生成的 SQL
+```
+SELECT * FROM products WHERE brand_id = '1' AND (name LIKE '%卫衣%') ORDER BY date_added DESC
+```
