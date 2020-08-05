@@ -75,6 +75,7 @@ SELECT * FROM products WHERE brand_id = '1' AND (name LIKE '%卫衣%') ORDER BY 
 ### 只搜索标签带【夏季】的商品，无关键字，无分类，无品牌，无价格要求
 ```
 curl "http://127.0.0.1:8888/search?keyword=&price=0,0&sort=1&tags=%E5%A4%8F%E5%AD%A3"
+```
 生成的 SQL
 ```
 SELECT * FROM products WHERE (tags LIKE '%夏季%') ORDER BY date_added DESC
