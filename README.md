@@ -36,3 +36,5 @@
 ```
 SELECT * FROM products WHERE (name LIKE '%美邦%') AND (tags LIKE '%时尚%' AND tags LIKE '%格子%') ORDER BY price DESC
 ```
+### 分页
+- 有点不巧, ElasticSearch-sql 出于安全与性能考虑，只支持 SQL Limit, 而不支持 offset，但分页又是必须的，咋整呢？( ⊙o⊙ )?
