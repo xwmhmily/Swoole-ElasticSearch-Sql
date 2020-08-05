@@ -31,3 +31,4 @@
 
 ### 搜索
 - cd 至 client 目录, 执行 php http.php
+- 或者 CLI 下 curl "http://127.0.0.1:8888/search?keyword=美邦&tags=时尚,格子&price=1,12550&sort=4"
