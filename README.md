@@ -29,7 +29,7 @@
 ### 验证
 - 访问 Kibana, 检查索引和数据是否OK，若有误，请根据 log 下的日志修复再重试
 
-### 搜索
+### 搜索名称带【美邦】，标签带【时尚】和【格子】，价格在 1 和 12550 之间的商品
 - cd 至 client 目录, 执行 php http.php
 - 或者 CLI 下 curl "http://127.0.0.1:8888/search?keyword=%E7%BE%8E%E9%82%A6&tags=%E6%97%B6%E5%B0%9A,%E6%A0%BC%E5%AD%90&price=1,12550&sort=4"
 > 日志中生成的 SQL 是酱紫的：
@@ -42,7 +42,7 @@ SELECT * FROM products WHERE (name LIKE '%美邦%') AND (tags LIKE '%时尚%' AN
 http://127.0.0.1:8888/search?keyword=%E7%BE%8E%E9%82%A6&tags=%E6%97%B6%E5%B0%9A,%E6%A0%BC%E5%AD%90&pricex=1,12550&sort=4&cursor=49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV3BrOFdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
 ```
 
-### 拼音搜索
+### 拼音搜索，指定价格不高于 520
 ```
 curl "http://127.0.0.1:8888/search?keyword=meibang&price=0,520&sort=3"
 ```
@@ -51,7 +51,7 @@ curl "http://127.0.0.1:8888/search?keyword=meibang&price=0,520&sort=3"
 SELECT * FROM products WHERE (brand_py LIKE '%meibang%' OR brand_pinyin LIKE '%meibang%' OR category_pinyin LIKE '%meibang%' OR category_py LIKE '%meibang%') AND (price <= 520) ORDER BY price ASC
 ```
 
-### 只在某个分类下搜索, 指定 category_id
+### 只在某个分类下搜索, 指定 category_id, 且价格不低于 100
 ```
 curl "http://127.0.0.1:8888/search?keyword=meibang&price=100,0&sort=3&category_id=1"
 ```
@@ -67,4 +67,12 @@ curl "http://127.0.0.1:8888/search?keyword=卫衣&price=0,0&sort=1&brand_id=1"
 生成的 SQL
 ```
 SELECT * FROM products WHERE brand_id = '1' AND (name LIKE '%卫衣%') ORDER BY date_added DESC
+```
+
+### 只搜索标签带【夏季】的商品
+```
+curl "http://127.0.0.1:8888/search?keyword=&price=0,0&sort=1&tags=%E5%A4%8F%E5%AD%A3"
+生成的 SQL
+```
+SELECT * FROM products WHERE (tags LIKE '%夏季%') ORDER BY date_added DESC
 ```
