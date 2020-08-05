@@ -49,7 +49,7 @@ class C_Product extends Controller{
         }
     }
 
-    // Index a categories
+    // Index a product
     public function create(){
         $product_id = $this->getParam('product_id');
         if(!$product_id){

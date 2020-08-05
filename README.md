@@ -79,3 +79,23 @@ curl "http://127.0.0.1:8888/search?keyword=&price=0,0&sort=1&tags=%E5%A4%8F%E5%A
 ```
 SELECT * FROM products WHERE (tags LIKE '%夏季%') ORDER BY date_added DESC
 ```
+
+### 新增一商品，如何同步
+- 商城中新增或上架后，curl "http://127.0.0.1:8888/product/create?product_id=" + $product_id
+
+### 修改一商品，如何同步
+- 商城中修改后，curl "http://127.0.0.1:8888/product/update?product_id=" + $product_id
+
+### 删除一商品，如何同步
+- 商城中修改后，curl "http://127.0.0.1:8888/product/remove?product_id=" + $product_id
+
+### 重新索引所有商品
+```
+curl "http://127.0.0.1:8888/product/removeAll"
+curl "http://127.0.0.1:8888/product/indexAll"
+```
+
+### 重建索引及重新索引所有商品
+```
+curl "http://127.0.0.1:8888/product/rebuild"
+```
