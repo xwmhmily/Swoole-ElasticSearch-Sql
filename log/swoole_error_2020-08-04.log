@@ -1,0 +1,897 @@
+2020-08-04 20:04:18 | 1596542658.1215 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1249 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1268 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.1287 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.1307 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.1351 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1370 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1391 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.1410 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.1430 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.1472 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1490 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1507 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.1527 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.1546 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.1587 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1606 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1626 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.1646 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.1666 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.1707 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1727 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1747 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.1766 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.1786 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.1831 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1850 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1870 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.1888 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.1908 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.1949 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.1967 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.1986 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2004 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2023 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2061 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2084 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2104 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2123 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2140 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2179 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2197 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2216 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2234 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2250 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2288 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2305 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2323 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2340 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2355 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2391 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2406 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2420 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2434 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2448 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2484 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2499 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2513 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2527 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2542 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2574 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2590 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2605 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2621 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2636 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2671 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2688 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2704 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2719 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2735 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2769 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2785 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2801 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2817 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2834 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2870 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2886 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.2902 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.2918 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.2934 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.2970 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.2986 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3002 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3019 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3035 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3070 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3086 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3102 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3118 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3134 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3167 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3183 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3199 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3215 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3232 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3266 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3281 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3297 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3313 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3328 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3362 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3377 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3393 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3408 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3424 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3458 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3473 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3490 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3505 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3521 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3555 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3571 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3587 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3603 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3618 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3656 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3671 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3687 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3704 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3719 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3753 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3769 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3785 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3801 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3816 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3851 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3867 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3883 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3899 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.3915 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.3949 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.3965 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.3981 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.3997 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4012 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4046 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4062 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4078 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4094 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4110 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4144 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4158 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4174 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4189 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4204 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4239 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4254 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4270 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4285 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4300 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4335 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4350 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4366 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4382 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4397 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4432 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4447 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4463 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4479 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4494 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4529 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4545 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4560 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4576 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4591 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4625 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4640 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4656 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4671 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4687 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4722 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4737 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4753 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4769 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4785 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4819 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4835 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4851 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4867 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4882 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.4917 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.4933 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.4949 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.4964 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.4980 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.5015 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.5031 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.5049 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.5065 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.5080 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.5115 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.5130 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.5146 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.5161 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.5176 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.5210 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.5226 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.5242 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.5257 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.5272 | ERROR | ================================================================================
+2020-08-04 20:04:18 | 1596542658.5305 | ERROR | ErrorNO: 8
+2020-08-04 20:04:18 | 1596542658.5321 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:04:18 | 1596542658.5337 | ERROR | File: /project/Swoole-ElasticSearch-Sql/controller/Product.php
+2020-08-04 20:04:18 | 1596542658.5353 | ERROR | Line: 38
+2020-08-04 20:04:18 | 1596542658.5369 | ERROR | ================================================================================
+2020-08-04 20:04:41 | 1596542681.0848 | INFO | Worker 0 stop
+2020-08-04 20:04:41 | 1596542681.0851 | INFO | Worker 1 stop
+2020-08-04 20:04:41 | 1596542681.0853 | INFO | Worker 2 stop
+2020-08-04 20:04:43 | 1596542683.2328 | INFO | ======= HTTP master start =======
+2020-08-04 20:04:43 | 1596542683.3622 | INFO | Success to init MySQL instance
+2020-08-04 20:04:43 | 1596542683.3628 | INFO | Success to init MySQL instance
+2020-08-04 20:04:43 | 1596542683.3664 | INFO | Success to init MySQL instance
+2020-08-04 20:04:43 | 1596542683.3684 | INFO | Success to init MySQL instance
+2020-08-04 20:04:43 | 1596542683.3702 | INFO | Success to init Redis instance
+2020-08-04 20:04:43 | 1596542683.3666 | INFO | Success to init MySQL instance
+2020-08-04 20:04:43 | 1596542683.3716 | INFO | Success to init Redis instance
+2020-08-04 20:04:43 | 1596542683.3728 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:04:43 | 1596542683.3755 | INFO | Success to init Redis instance
+2020-08-04 20:04:43 | 1596542683.3759 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:04:43 | 1596542683.3788 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:06:46 | 1596542806.6616 | ERROR | ErrorNO: 9999
+2020-08-04 20:06:46 | 1596542806.6653 | ERROR | Error: No such file or directory: /project/Swoole-ElasticSearch-Sql/controller/Favicon.ico.php
+2020-08-04 20:06:46 | 1596542806.6669 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/core/Hooker.php
+2020-08-04 20:06:46 | 1596542806.6686 | ERROR | Line: 81
+2020-08-04 20:06:46 | 1596542806.6706 | ERROR | ================================================================================
+2020-08-04 20:09:42 | 1596542982.1977 | INFO | Worker 0 stop
+2020-08-04 20:09:42 | 1596542982.1980 | INFO | Worker 1 stop
+2020-08-04 20:09:42 | 1596542982.1982 | INFO | Worker 2 stop
+2020-08-04 20:09:44 | 1596542984.3516 | INFO | ======= HTTP master start =======
+2020-08-04 20:09:44 | 1596542984.4822 | INFO | Success to init MySQL instance
+2020-08-04 20:09:44 | 1596542984.4835 | INFO | Success to init MySQL instance
+2020-08-04 20:09:44 | 1596542984.4874 | INFO | Success to init MySQL instance
+2020-08-04 20:09:44 | 1596542984.4855 | INFO | Success to init MySQL instance
+2020-08-04 20:09:44 | 1596542984.4919 | INFO | Success to init MySQL instance
+2020-08-04 20:09:44 | 1596542984.4929 | INFO | Success to init Redis instance
+2020-08-04 20:09:44 | 1596542984.4953 | INFO | Success to init Redis instance
+2020-08-04 20:09:44 | 1596542984.4985 | INFO | Success to init Redis instance
+2020-08-04 20:09:44 | 1596542984.4986 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:09:44 | 1596542984.4999 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:09:44 | 1596542984.5015 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:10:21 | 1596543021.4242 | INFO | Worker 0 stop
+2020-08-04 20:10:21 | 1596543021.4246 | INFO | Worker 1 stop
+2020-08-04 20:10:21 | 1596543021.4247 | INFO | Worker 2 stop
+2020-08-04 20:10:23 | 1596543023.5197 | INFO | ======= HTTP master start =======
+2020-08-04 20:10:23 | 1596543023.6495 | INFO | Success to init MySQL instance
+2020-08-04 20:10:23 | 1596543023.6511 | INFO | Success to init MySQL instance
+2020-08-04 20:10:23 | 1596543023.6555 | INFO | Success to init MySQL instance
+2020-08-04 20:10:23 | 1596543023.6557 | INFO | Success to init MySQL instance
+2020-08-04 20:10:23 | 1596543023.6581 | INFO | Success to init MySQL instance
+2020-08-04 20:10:23 | 1596543023.6644 | INFO | Success to init Redis instance
+2020-08-04 20:10:23 | 1596543023.6655 | INFO | Success to init Redis instance
+2020-08-04 20:10:23 | 1596543023.6674 | INFO | Success to init Redis instance
+2020-08-04 20:10:23 | 1596543023.6677 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:10:23 | 1596543023.6690 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:10:23 | 1596543023.6724 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:11:24 | 1596543084.8197 | INFO | Worker 0 stop
+2020-08-04 20:11:24 | 1596543084.8200 | INFO | Worker 1 stop
+2020-08-04 20:11:24 | 1596543084.8201 | INFO | Worker 2 stop
+2020-08-04 20:11:26 | 1596543086.9523 | INFO | ======= HTTP master start =======
+2020-08-04 20:11:27 | 1596543087.0835 | INFO | Success to init MySQL instance
+2020-08-04 20:11:27 | 1596543087.0832 | INFO | Success to init MySQL instance
+2020-08-04 20:11:27 | 1596543087.0843 | INFO | Success to init MySQL instance
+2020-08-04 20:11:27 | 1596543087.0912 | INFO | Success to init MySQL instance
+2020-08-04 20:11:27 | 1596543087.0916 | INFO | Success to init MySQL instance
+2020-08-04 20:11:27 | 1596543087.0957 | INFO | Success to init Redis instance
+2020-08-04 20:11:27 | 1596543087.0962 | INFO | Success to init Redis instance
+2020-08-04 20:11:27 | 1596543087.0990 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:11:27 | 1596543087.0988 | INFO | Success to init Redis instance
+2020-08-04 20:11:27 | 1596543087.1004 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:11:27 | 1596543087.1032 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:11:50 | 1596543110.5198 | INFO | Worker 0 stop
+2020-08-04 20:11:50 | 1596543110.5201 | INFO | Worker 1 stop
+2020-08-04 20:11:50 | 1596543110.5202 | INFO | Worker 2 stop
+2020-08-04 20:11:52 | 1596543112.6182 | INFO | ======= HTTP master start =======
+2020-08-04 20:11:52 | 1596543112.7495 | INFO | Success to init MySQL instance
+2020-08-04 20:11:52 | 1596543112.7509 | INFO | Success to init MySQL instance
+2020-08-04 20:11:52 | 1596543112.7526 | INFO | Success to init MySQL instance
+2020-08-04 20:11:52 | 1596543112.7576 | INFO | Success to init MySQL instance
+2020-08-04 20:11:52 | 1596543112.7577 | INFO | Success to init MySQL instance
+2020-08-04 20:11:52 | 1596543112.7629 | INFO | Success to init Redis instance
+2020-08-04 20:11:52 | 1596543112.7659 | INFO | Success to init Redis instance
+2020-08-04 20:11:52 | 1596543112.7668 | INFO | Success to init Redis instance
+2020-08-04 20:11:52 | 1596543112.7673 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:11:52 | 1596543112.7687 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:11:52 | 1596543112.7701 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:12:20 | 1596543140.3467 | INFO | Heartbeating process ......
+2020-08-04 20:12:20 | 1596543140.3502 | INFO | Process config => {"Swoole-ElasticSearch-Sql_Insert":{"num":1,"mysql":true,"redis":true,"callback":["ElasticSearch","Insert"]},"Swoole-ElasticSearch-Sql_Remove":{"num":1,"mysql":true,"redis":true,"callback":["ElasticSearch","Remove"]}}
+2020-08-04 20:12:20 | 1596543140.3768 | WARN | Heartbeat: Swoole-ElasticSearch-Sql_Insert is DOWN, restarting ......
+2020-08-04 20:12:20 | 1596543140.3791 | INFO | Forking Swoole-ElasticSearch-Sql_Insert......
+2020-08-04 20:12:20 | 1596543140.3814 | INFO | Process Swoole-ElasticSearch-Sql_Insert with pid 23439 is running !
+2020-08-04 20:12:20 | 1596543140.3886 | INFO | Success to init MySQL instance
+2020-08-04 20:12:20 | 1596543140.3916 | INFO | Success to init MySQL instance
+2020-08-04 20:12:20 | 1596543140.3956 | INFO | Success to init Redis instance
+2020-08-04 20:12:20 | 1596543140.4211 | INFO | ElasticSearch::Insert is ready
+2020-08-04 20:12:20 | 1596543140.4275 | WARN | Heartbeat: Swoole-ElasticSearch-Sql_Remove is DOWN, restarting ......
+2020-08-04 20:12:20 | 1596543140.4294 | INFO | Forking Swoole-ElasticSearch-Sql_Remove......
+2020-08-04 20:12:20 | 1596543140.4316 | INFO | Process Swoole-ElasticSearch-Sql_Remove with pid 23446 is running !
+2020-08-04 20:12:20 | 1596543140.4426 | INFO | Success to init MySQL instance
+2020-08-04 20:12:20 | 1596543140.4468 | INFO | Success to init MySQL instance
+2020-08-04 20:12:20 | 1596543140.4504 | INFO | Success to init Redis instance
+2020-08-04 20:12:20 | 1596543140.4608 | INFO | ElasticSearch::Remove is ready
+2020-08-04 20:13:33 | 1596543213.8519 | INFO | Worker 0 stop
+2020-08-04 20:13:33 | 1596543213.8521 | INFO | Worker 1 stop
+2020-08-04 20:13:33 | 1596543213.8522 | INFO | Worker 2 stop
+2020-08-04 20:13:35 | 1596543215.9876 | INFO | ======= HTTP master start =======
+2020-08-04 20:13:36 | 1596543216.1171 | INFO | Success to init MySQL instance
+2020-08-04 20:13:36 | 1596543216.1185 | INFO | Success to init MySQL instance
+2020-08-04 20:13:36 | 1596543216.1199 | INFO | Success to init MySQL instance
+2020-08-04 20:13:36 | 1596543216.1229 | INFO | Success to init MySQL instance
+2020-08-04 20:13:36 | 1596543216.1256 | INFO | Success to init MySQL instance
+2020-08-04 20:13:36 | 1596543216.1282 | INFO | Success to init Redis instance
+2020-08-04 20:13:36 | 1596543216.1316 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:13:36 | 1596543216.1324 | INFO | Success to init Redis instance
+2020-08-04 20:13:36 | 1596543216.1325 | INFO | Success to init Redis instance
+2020-08-04 20:13:36 | 1596543216.1355 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:13:36 | 1596543216.1368 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:14:07 | 1596543247.6549 | INFO | Worker 0 stop
+2020-08-04 20:14:07 | 1596543247.6552 | INFO | Worker 1 stop
+2020-08-04 20:14:07 | 1596543247.6553 | INFO | Worker 2 stop
+2020-08-04 20:14:09 | 1596543249.7494 | INFO | ======= HTTP master start =======
+2020-08-04 20:14:09 | 1596543249.8798 | INFO | Success to init MySQL instance
+2020-08-04 20:14:09 | 1596543249.8803 | INFO | Success to init MySQL instance
+2020-08-04 20:14:09 | 1596543249.8868 | INFO | Success to init MySQL instance
+2020-08-04 20:14:09 | 1596543249.8877 | INFO | Success to init MySQL instance
+2020-08-04 20:14:09 | 1596543249.8843 | INFO | Success to init MySQL instance
+2020-08-04 20:14:09 | 1596543249.8915 | INFO | Success to init Redis instance
+2020-08-04 20:14:09 | 1596543249.8936 | INFO | Success to init Redis instance
+2020-08-04 20:14:09 | 1596543249.8955 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:14:09 | 1596543249.8976 | INFO | Success to init Redis instance
+2020-08-04 20:14:09 | 1596543249.8980 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:14:09 | 1596543249.8995 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:23:33 | 1596543813.6139 | INFO | Worker 0 stop
+2020-08-04 20:23:33 | 1596543813.6142 | INFO | Worker 1 stop
+2020-08-04 20:23:33 | 1596543813.6144 | INFO | Worker 2 stop
+2020-08-04 20:23:35 | 1596543815.7625 | INFO | ======= HTTP master start =======
+2020-08-04 20:23:35 | 1596543815.8927 | INFO | Success to init MySQL instance
+2020-08-04 20:23:35 | 1596543815.8946 | INFO | Success to init MySQL instance
+2020-08-04 20:23:35 | 1596543815.8987 | INFO | Success to init MySQL instance
+2020-08-04 20:23:35 | 1596543815.9011 | INFO | Success to init MySQL instance
+2020-08-04 20:23:35 | 1596543815.9037 | INFO | Success to init Redis instance
+2020-08-04 20:23:35 | 1596543815.8992 | INFO | Success to init MySQL instance
+2020-08-04 20:23:35 | 1596543815.9062 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:23:35 | 1596543815.9065 | INFO | Success to init Redis instance
+2020-08-04 20:23:35 | 1596543815.9102 | INFO | Success to init Redis instance
+2020-08-04 20:23:35 | 1596543815.9108 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:23:35 | 1596543815.9123 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:23:51 | 1596543831.2918 | INFO | Heartbeating process ......
+2020-08-04 20:23:51 | 1596543831.2954 | INFO | Process config => {"Swoole-ElasticSearch-Sql_Insert":{"num":1,"mysql":true,"redis":true,"callback":["ElasticSearch","Insert"]},"Swoole-ElasticSearch-Sql_Remove":{"num":1,"mysql":true,"redis":true,"callback":["ElasticSearch","Remove"]}}
+2020-08-04 20:23:51 | 1596543831.3222 | WARN | Heartbeat: Swoole-ElasticSearch-Sql_Insert is DOWN, restarting ......
+2020-08-04 20:23:51 | 1596543831.3241 | INFO | Forking Swoole-ElasticSearch-Sql_Insert......
+2020-08-04 20:23:51 | 1596543831.3265 | INFO | Process Swoole-ElasticSearch-Sql_Insert with pid 24072 is running !
+2020-08-04 20:23:51 | 1596543831.3336 | INFO | Success to init MySQL instance
+2020-08-04 20:23:51 | 1596543831.3382 | INFO | Success to init MySQL instance
+2020-08-04 20:23:51 | 1596543831.3421 | INFO | Success to init Redis instance
+2020-08-04 20:23:51 | 1596543831.3676 | INFO | ElasticSearch::Insert is ready
+2020-08-04 20:23:51 | 1596543831.3734 | WARN | Heartbeat: Swoole-ElasticSearch-Sql_Remove is DOWN, restarting ......
+2020-08-04 20:23:51 | 1596543831.3754 | INFO | Forking Swoole-ElasticSearch-Sql_Remove......
+2020-08-04 20:23:51 | 1596543831.3778 | INFO | Process Swoole-ElasticSearch-Sql_Remove with pid 24079 is running !
+2020-08-04 20:23:51 | 1596543831.3897 | INFO | Success to init MySQL instance
+2020-08-04 20:23:51 | 1596543831.3937 | INFO | Success to init MySQL instance
+2020-08-04 20:23:51 | 1596543831.3965 | INFO | Success to init Redis instance
+2020-08-04 20:23:51 | 1596543831.4065 | INFO | ElasticSearch::Remove is ready
+2020-08-04 20:24:11 | 1596543851.7954 | INFO | Push to insert queue {"id":"1","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子,夏季","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8026 | INFO | Push to insert queue {"id":"2","name":"美邦男版春季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"100.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子,春季","sort_order":"9","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8074 | INFO | Push to insert queue {"id":"3","name":"美邦男版秋季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"99.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,秋季","sort_order":"8","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8124 | INFO | Push to insert queue {"id":"4","name":"美邦男版冬季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,冬季","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8175 | INFO | Push to insert queue {"id":"5","name":"优衣库男版春季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,轻奢","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8220 | INFO | Push to insert queue {"id":"6","name":"优衣库男版夏季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"77.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,轻奢","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8264 | INFO | Push to insert queue {"id":"7","name":"优衣库男版秋季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8304 | INFO | Push to insert queue {"id":"8","name":"优衣库男版冬季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"66.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽","sort_order":"108","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8347 | INFO | Push to insert queue {"id":"9","name":"以纯女版春季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"淡黄,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8391 | INFO | Push to insert queue {"id":"10","name":"以纯女版夏季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"260.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,夏季","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8434 | INFO | Push to insert queue {"id":"11","name":"以纯女版秋季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,秋季,清纯","sort_order":"7","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8478 | INFO | Push to insert queue {"id":"12","name":"以纯女版冬季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"102.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"冬季,花色,保暖","sort_order":"11","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8520 | INFO | Push to insert queue {"id":"13","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,卫衣","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8563 | INFO | Push to insert queue {"id":"14","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,简约,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8604 | INFO | Push to insert queue {"id":"15","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"55.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"大气,花色,格子","sort_order":"12","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8645 | INFO | Push to insert queue {"id":"16","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,大码,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8687 | INFO | Push to insert queue {"id":"17","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8732 | INFO | Push to insert queue {"id":"18","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"13","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8774 | INFO | Push to insert queue {"id":"19","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"77.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8817 | INFO | Push to insert queue {"id":"20","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"114","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8857 | INFO | Push to insert queue {"id":"21","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8900 | INFO | Push to insert queue {"id":"22","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"120.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"15","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8943 | INFO | Push to insert queue {"id":"23","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.8985 | INFO | Push to insert queue {"id":"24","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"16","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9028 | INFO | Push to insert queue {"id":"25","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88111.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9069 | INFO | Push to insert queue {"id":"26","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"525.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9111 | INFO | Push to insert queue {"id":"27","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"1018","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9155 | INFO | Push to insert queue {"id":"28","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"55.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9198 | INFO | Push to insert queue {"id":"29","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9241 | INFO | Push to insert queue {"id":"30","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"656.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"2","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9284 | INFO | Push to insert queue {"id":"31","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9327 | INFO | Push to insert queue {"id":"32","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9370 | INFO | Push to insert queue {"id":"33","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"111.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"103","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9415 | INFO | Push to insert queue {"id":"34","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9457 | INFO | Push to insert queue {"id":"35","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"110.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9498 | INFO | Push to insert queue {"id":"36","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"3","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9539 | INFO | Push to insert queue {"id":"37","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9581 | INFO | Push to insert queue {"id":"38","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9623 | INFO | Push to insert queue {"id":"39","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9665 | INFO | Push to insert queue {"id":"40","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:11 | 1596543851.9709 | INFO | Push to insert queue {"id":"41","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:24:12 | 1596543852.3925 | ERROR | ErrorNO: 8
+2020-08-04 20:24:12 | 1596543852.3965 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:12 | 1596543852.3986 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:12 | 1596543852.4007 | ERROR | Line: 82
+2020-08-04 20:24:12 | 1596543852.4028 | ERROR | ================================================================================
+2020-08-04 20:24:13 | 1596543853.6780 | ERROR | ErrorNO: 8
+2020-08-04 20:24:13 | 1596543853.6801 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:13 | 1596543853.6823 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:13 | 1596543853.6844 | ERROR | Line: 82
+2020-08-04 20:24:13 | 1596543853.6862 | ERROR | ================================================================================
+2020-08-04 20:24:14 | 1596543854.7207 | ERROR | ErrorNO: 8
+2020-08-04 20:24:14 | 1596543854.7229 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:14 | 1596543854.7246 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:14 | 1596543854.7373 | ERROR | Line: 82
+2020-08-04 20:24:14 | 1596543854.7392 | ERROR | ================================================================================
+2020-08-04 20:24:15 | 1596543855.7633 | ERROR | ErrorNO: 8
+2020-08-04 20:24:15 | 1596543855.7664 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:15 | 1596543855.7683 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:15 | 1596543855.7703 | ERROR | Line: 82
+2020-08-04 20:24:15 | 1596543855.7722 | ERROR | ================================================================================
+2020-08-04 20:24:16 | 1596543856.8030 | ERROR | ErrorNO: 8
+2020-08-04 20:24:16 | 1596543856.8050 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:16 | 1596543856.8067 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:16 | 1596543856.8086 | ERROR | Line: 82
+2020-08-04 20:24:16 | 1596543856.8103 | ERROR | ================================================================================
+2020-08-04 20:24:17 | 1596543857.8393 | ERROR | ErrorNO: 8
+2020-08-04 20:24:17 | 1596543857.8419 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:17 | 1596543857.8440 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:17 | 1596543857.8460 | ERROR | Line: 82
+2020-08-04 20:24:17 | 1596543857.8479 | ERROR | ================================================================================
+2020-08-04 20:24:18 | 1596543858.8742 | ERROR | ErrorNO: 8
+2020-08-04 20:24:18 | 1596543858.8773 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:18 | 1596543858.8791 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:18 | 1596543858.8810 | ERROR | Line: 82
+2020-08-04 20:24:18 | 1596543858.8829 | ERROR | ================================================================================
+2020-08-04 20:24:19 | 1596543859.9071 | ERROR | ErrorNO: 8
+2020-08-04 20:24:19 | 1596543859.9095 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:19 | 1596543859.9115 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:19 | 1596543859.9134 | ERROR | Line: 82
+2020-08-04 20:24:19 | 1596543859.9152 | ERROR | ================================================================================
+2020-08-04 20:24:20 | 1596543860.9428 | ERROR | ErrorNO: 8
+2020-08-04 20:24:20 | 1596543860.9448 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:20 | 1596543860.9468 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:20 | 1596543860.9488 | ERROR | Line: 82
+2020-08-04 20:24:20 | 1596543860.9506 | ERROR | ================================================================================
+2020-08-04 20:24:21 | 1596543861.9830 | ERROR | ErrorNO: 8
+2020-08-04 20:24:21 | 1596543861.9861 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:21 | 1596543861.9884 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:21 | 1596543861.9905 | ERROR | Line: 82
+2020-08-04 20:24:21 | 1596543861.9927 | ERROR | ================================================================================
+2020-08-04 20:24:23 | 1596543863.0252 | ERROR | ErrorNO: 8
+2020-08-04 20:24:23 | 1596543863.0279 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:23 | 1596543863.0298 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:23 | 1596543863.0319 | ERROR | Line: 82
+2020-08-04 20:24:23 | 1596543863.0340 | ERROR | ================================================================================
+2020-08-04 20:24:24 | 1596543864.0607 | ERROR | ErrorNO: 8
+2020-08-04 20:24:24 | 1596543864.0631 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:24 | 1596543864.0651 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:24 | 1596543864.0670 | ERROR | Line: 82
+2020-08-04 20:24:24 | 1596543864.0687 | ERROR | ================================================================================
+2020-08-04 20:24:25 | 1596543865.0938 | ERROR | ErrorNO: 8
+2020-08-04 20:24:25 | 1596543865.0967 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:25 | 1596543865.0989 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:25 | 1596543865.1007 | ERROR | Line: 82
+2020-08-04 20:24:25 | 1596543865.1028 | ERROR | ================================================================================
+2020-08-04 20:24:26 | 1596543866.1282 | ERROR | ErrorNO: 8
+2020-08-04 20:24:26 | 1596543866.1305 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:26 | 1596543866.1325 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:26 | 1596543866.1343 | ERROR | Line: 82
+2020-08-04 20:24:26 | 1596543866.1362 | ERROR | ================================================================================
+2020-08-04 20:24:27 | 1596543867.1613 | ERROR | ErrorNO: 8
+2020-08-04 20:24:27 | 1596543867.1635 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:27 | 1596543867.1656 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:27 | 1596543867.1677 | ERROR | Line: 82
+2020-08-04 20:24:27 | 1596543867.1697 | ERROR | ================================================================================
+2020-08-04 20:24:28 | 1596543868.2607 | ERROR | ErrorNO: 8
+2020-08-04 20:24:28 | 1596543868.2636 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:28 | 1596543868.2656 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:28 | 1596543868.2675 | ERROR | Line: 82
+2020-08-04 20:24:28 | 1596543868.2693 | ERROR | ================================================================================
+2020-08-04 20:24:29 | 1596543869.3014 | ERROR | ErrorNO: 8
+2020-08-04 20:24:29 | 1596543869.3041 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:29 | 1596543869.3061 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:29 | 1596543869.3080 | ERROR | Line: 82
+2020-08-04 20:24:29 | 1596543869.3097 | ERROR | ================================================================================
+2020-08-04 20:24:30 | 1596543870.3357 | ERROR | ErrorNO: 8
+2020-08-04 20:24:30 | 1596543870.3378 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:30 | 1596543870.3399 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:30 | 1596543870.3421 | ERROR | Line: 82
+2020-08-04 20:24:30 | 1596543870.3441 | ERROR | ================================================================================
+2020-08-04 20:24:31 | 1596543871.3712 | ERROR | ErrorNO: 8
+2020-08-04 20:24:31 | 1596543871.3742 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:31 | 1596543871.3761 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:31 | 1596543871.3782 | ERROR | Line: 82
+2020-08-04 20:24:31 | 1596543871.3802 | ERROR | ================================================================================
+2020-08-04 20:24:32 | 1596543872.4088 | ERROR | ErrorNO: 8
+2020-08-04 20:24:32 | 1596543872.4113 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:32 | 1596543872.4132 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:32 | 1596543872.4151 | ERROR | Line: 82
+2020-08-04 20:24:32 | 1596543872.4171 | ERROR | ================================================================================
+2020-08-04 20:24:33 | 1596543873.4431 | ERROR | ErrorNO: 8
+2020-08-04 20:24:33 | 1596543873.4453 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:33 | 1596543873.4476 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:33 | 1596543873.4496 | ERROR | Line: 82
+2020-08-04 20:24:33 | 1596543873.4515 | ERROR | ================================================================================
+2020-08-04 20:24:34 | 1596543874.4781 | ERROR | ErrorNO: 8
+2020-08-04 20:24:34 | 1596543874.4829 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:34 | 1596543874.4847 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:34 | 1596543874.4867 | ERROR | Line: 82
+2020-08-04 20:24:34 | 1596543874.4888 | ERROR | ================================================================================
+2020-08-04 20:24:35 | 1596543875.5181 | ERROR | ErrorNO: 8
+2020-08-04 20:24:35 | 1596543875.5204 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:35 | 1596543875.5222 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:35 | 1596543875.5238 | ERROR | Line: 82
+2020-08-04 20:24:35 | 1596543875.5256 | ERROR | ================================================================================
+2020-08-04 20:24:36 | 1596543876.5509 | ERROR | ErrorNO: 8
+2020-08-04 20:24:36 | 1596543876.5532 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:36 | 1596543876.5551 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:36 | 1596543876.5570 | ERROR | Line: 82
+2020-08-04 20:24:36 | 1596543876.5590 | ERROR | ================================================================================
+2020-08-04 20:24:37 | 1596543877.5864 | ERROR | ErrorNO: 8
+2020-08-04 20:24:37 | 1596543877.5895 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:37 | 1596543877.5915 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:37 | 1596543877.5935 | ERROR | Line: 82
+2020-08-04 20:24:37 | 1596543877.5955 | ERROR | ================================================================================
+2020-08-04 20:24:38 | 1596543878.6286 | ERROR | ErrorNO: 8
+2020-08-04 20:24:38 | 1596543878.6312 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:38 | 1596543878.6332 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:38 | 1596543878.6351 | ERROR | Line: 82
+2020-08-04 20:24:38 | 1596543878.6370 | ERROR | ================================================================================
+2020-08-04 20:24:39 | 1596543879.6636 | ERROR | ErrorNO: 8
+2020-08-04 20:24:39 | 1596543879.6656 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:39 | 1596543879.6676 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:39 | 1596543879.6697 | ERROR | Line: 82
+2020-08-04 20:24:39 | 1596543879.6717 | ERROR | ================================================================================
+2020-08-04 20:24:40 | 1596543880.7092 | ERROR | ErrorNO: 8
+2020-08-04 20:24:40 | 1596543880.7121 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:40 | 1596543880.7139 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:40 | 1596543880.7160 | ERROR | Line: 82
+2020-08-04 20:24:40 | 1596543880.7180 | ERROR | ================================================================================
+2020-08-04 20:24:41 | 1596543881.7469 | ERROR | ErrorNO: 8
+2020-08-04 20:24:41 | 1596543881.7493 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:41 | 1596543881.7514 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:41 | 1596543881.7533 | ERROR | Line: 82
+2020-08-04 20:24:41 | 1596543881.7552 | ERROR | ================================================================================
+2020-08-04 20:24:42 | 1596543882.7836 | ERROR | ErrorNO: 8
+2020-08-04 20:24:42 | 1596543882.7866 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:42 | 1596543882.7885 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:42 | 1596543882.7905 | ERROR | Line: 82
+2020-08-04 20:24:42 | 1596543882.7926 | ERROR | ================================================================================
+2020-08-04 20:24:43 | 1596543883.8213 | ERROR | ErrorNO: 8
+2020-08-04 20:24:43 | 1596543883.8243 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:43 | 1596543883.8262 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:43 | 1596543883.8280 | ERROR | Line: 82
+2020-08-04 20:24:43 | 1596543883.8298 | ERROR | ================================================================================
+2020-08-04 20:24:44 | 1596543884.8609 | ERROR | ErrorNO: 8
+2020-08-04 20:24:44 | 1596543884.8632 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:44 | 1596543884.8651 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:44 | 1596543884.8667 | ERROR | Line: 82
+2020-08-04 20:24:44 | 1596543884.8685 | ERROR | ================================================================================
+2020-08-04 20:24:45 | 1596543885.8997 | ERROR | ErrorNO: 8
+2020-08-04 20:24:45 | 1596543885.9019 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:45 | 1596543885.9053 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:45 | 1596543885.9069 | ERROR | Line: 82
+2020-08-04 20:24:45 | 1596543885.9085 | ERROR | ================================================================================
+2020-08-04 20:24:46 | 1596543886.9365 | ERROR | ErrorNO: 8
+2020-08-04 20:24:46 | 1596543886.9392 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:46 | 1596543886.9410 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:46 | 1596543886.9430 | ERROR | Line: 82
+2020-08-04 20:24:46 | 1596543886.9450 | ERROR | ================================================================================
+2020-08-04 20:24:47 | 1596543887.9702 | ERROR | ErrorNO: 8
+2020-08-04 20:24:47 | 1596543887.9724 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:47 | 1596543887.9745 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:47 | 1596543887.9765 | ERROR | Line: 82
+2020-08-04 20:24:47 | 1596543887.9787 | ERROR | ================================================================================
+2020-08-04 20:24:49 | 1596543889.0051 | ERROR | ErrorNO: 8
+2020-08-04 20:24:49 | 1596543889.0073 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:49 | 1596543889.0093 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:49 | 1596543889.0113 | ERROR | Line: 82
+2020-08-04 20:24:49 | 1596543889.0131 | ERROR | ================================================================================
+2020-08-04 20:24:50 | 1596543890.0428 | ERROR | ErrorNO: 8
+2020-08-04 20:24:50 | 1596543890.0457 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:50 | 1596543890.0475 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:50 | 1596543890.0494 | ERROR | Line: 82
+2020-08-04 20:24:50 | 1596543890.0513 | ERROR | ================================================================================
+2020-08-04 20:24:51 | 1596543891.0815 | ERROR | ErrorNO: 8
+2020-08-04 20:24:51 | 1596543891.0837 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:51 | 1596543891.0855 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:51 | 1596543891.0874 | ERROR | Line: 82
+2020-08-04 20:24:51 | 1596543891.0893 | ERROR | ================================================================================
+2020-08-04 20:24:52 | 1596543892.1136 | ERROR | ErrorNO: 8
+2020-08-04 20:24:52 | 1596543892.1160 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:52 | 1596543892.1181 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:52 | 1596543892.1201 | ERROR | Line: 82
+2020-08-04 20:24:52 | 1596543892.1220 | ERROR | ================================================================================
+2020-08-04 20:24:53 | 1596543893.1922 | ERROR | ErrorNO: 8
+2020-08-04 20:24:53 | 1596543893.1953 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:53 | 1596543893.1972 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:53 | 1596543893.1989 | ERROR | Line: 82
+2020-08-04 20:24:53 | 1596543893.2009 | ERROR | ================================================================================
+2020-08-04 20:24:54 | 1596543894.2299 | ERROR | ErrorNO: 8
+2020-08-04 20:24:54 | 1596543894.2319 | ERROR | Error: Undefined index: product_id
+2020-08-04 20:24:54 | 1596543894.2336 | ERROR | File: /project/Swoole-ElasticSearch-Sql/library/ES.php
+2020-08-04 20:24:54 | 1596543894.2355 | ERROR | Line: 82
+2020-08-04 20:24:54 | 1596543894.2373 | ERROR | ================================================================================
+2020-08-04 20:25:55 | 1596543955.0307 | INFO | Heartbeating process ......
+2020-08-04 20:25:55 | 1596543955.0350 | INFO | Process config => {"Swoole-ElasticSearch-Sql_Insert":{"num":1,"mysql":true,"redis":true,"callback":["ElasticSearch","Insert"]},"Swoole-ElasticSearch-Sql_Remove":{"num":1,"mysql":true,"redis":true,"callback":["ElasticSearch","Remove"]}}
+2020-08-04 20:25:55 | 1596543955.0646 | WARN | Heartbeat: Swoole-ElasticSearch-Sql_Insert is DOWN, restarting ......
+2020-08-04 20:25:55 | 1596543955.0664 | INFO | Forking Swoole-ElasticSearch-Sql_Insert......
+2020-08-04 20:25:55 | 1596543955.0686 | INFO | Process Swoole-ElasticSearch-Sql_Insert with pid 24199 is running !
+2020-08-04 20:25:55 | 1596543955.0762 | INFO | Success to init MySQL instance
+2020-08-04 20:25:55 | 1596543955.0803 | INFO | Success to init MySQL instance
+2020-08-04 20:25:55 | 1596543955.0844 | INFO | Success to init Redis instance
+2020-08-04 20:25:55 | 1596543955.1102 | INFO | ElasticSearch::Insert is ready
+2020-08-04 20:25:55 | 1596543955.1159 | INFO | Heartbeat: Swoole-ElasticSearch-Sql_Remove is running
+2020-08-04 20:25:56 | 1596543956.9486 | INFO | Push to insert queue {"id":"1","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子,夏季","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9539 | INFO | Push to insert queue {"id":"2","name":"美邦男版春季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"100.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子,春季","sort_order":"9","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9585 | INFO | Push to insert queue {"id":"3","name":"美邦男版秋季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"99.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,秋季","sort_order":"8","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9630 | INFO | Push to insert queue {"id":"4","name":"美邦男版冬季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,冬季","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9674 | INFO | Push to insert queue {"id":"5","name":"优衣库男版春季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,轻奢","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9721 | INFO | Push to insert queue {"id":"6","name":"优衣库男版夏季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"77.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,轻奢","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9766 | INFO | Push to insert queue {"id":"7","name":"优衣库男版秋季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9807 | INFO | Push to insert queue {"id":"8","name":"优衣库男版冬季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"66.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽","sort_order":"108","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9848 | INFO | Push to insert queue {"id":"9","name":"以纯女版春季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"淡黄,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9891 | INFO | Push to insert queue {"id":"10","name":"以纯女版夏季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"260.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,夏季","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9933 | INFO | Push to insert queue {"id":"11","name":"以纯女版秋季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,秋季,清纯","sort_order":"7","es_id":null,"index":"products"}
+2020-08-04 20:25:56 | 1596543956.9975 | INFO | Push to insert queue {"id":"12","name":"以纯女版冬季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"102.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"冬季,花色,保暖","sort_order":"11","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0019 | INFO | Push to insert queue {"id":"13","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,卫衣","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0061 | INFO | Push to insert queue {"id":"14","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,简约,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0103 | INFO | Push to insert queue {"id":"15","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"55.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"大气,花色,格子","sort_order":"12","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0147 | INFO | Push to insert queue {"id":"16","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,大码,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0186 | INFO | Push to insert queue {"id":"17","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0226 | INFO | Push to insert queue {"id":"18","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"13","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0268 | INFO | Push to insert queue {"id":"19","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"77.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0307 | INFO | Push to insert queue {"id":"20","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"114","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0347 | INFO | Push to insert queue {"id":"21","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0390 | INFO | Push to insert queue {"id":"22","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"120.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"15","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0432 | INFO | Push to insert queue {"id":"23","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0474 | INFO | Push to insert queue {"id":"24","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"16","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0515 | INFO | Push to insert queue {"id":"25","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88111.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0557 | INFO | Push to insert queue {"id":"26","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"525.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0598 | INFO | Push to insert queue {"id":"27","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"1018","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0636 | INFO | Push to insert queue {"id":"28","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"55.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0677 | INFO | Push to insert queue {"id":"29","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0716 | INFO | Push to insert queue {"id":"30","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"656.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"2","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0757 | INFO | Push to insert queue {"id":"31","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0799 | INFO | Push to insert queue {"id":"32","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0840 | INFO | Push to insert queue {"id":"33","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"111.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"103","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0882 | INFO | Push to insert queue {"id":"34","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0923 | INFO | Push to insert queue {"id":"35","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"110.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.0965 | INFO | Push to insert queue {"id":"36","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"3","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.1006 | INFO | Push to insert queue {"id":"37","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.1046 | INFO | Push to insert queue {"id":"38","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.1091 | INFO | Push to insert queue {"id":"39","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.1133 | INFO | Push to insert queue {"id":"40","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:25:57 | 1596543957.1181 | INFO | Push to insert queue {"id":"41","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":null,"index":"products"}
+2020-08-04 20:29:15 | 1596544155.9922 | INFO | All is letter
+2020-08-04 20:29:15 | 1596544155.9958 | INFO | Search with pinyin
+2020-08-04 20:29:15 | 1596544155.9980 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC
+2020-08-04 20:29:16 | 1596544156.0001 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:29:27 | 1596544167.8694 | INFO | All is letter
+2020-08-04 20:29:27 | 1596544167.8725 | INFO | Search with pinyin
+2020-08-04 20:29:27 | 1596544167.8845 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC
+2020-08-04 20:29:27 | 1596544167.8867 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:30:02 | 1596544202.8226 | INFO | Worker 0 stop
+2020-08-04 20:30:02 | 1596544202.8229 | INFO | Worker 1 stop
+2020-08-04 20:30:02 | 1596544202.8231 | INFO | Worker 2 stop
+2020-08-04 20:30:04 | 1596544204.9609 | INFO | ======= HTTP master start =======
+2020-08-04 20:30:05 | 1596544205.0911 | INFO | Success to init MySQL instance
+2020-08-04 20:30:05 | 1596544205.0925 | INFO | Success to init MySQL instance
+2020-08-04 20:30:05 | 1596544205.0944 | INFO | Success to init MySQL instance
+2020-08-04 20:30:05 | 1596544205.0983 | INFO | Success to init MySQL instance
+2020-08-04 20:30:05 | 1596544205.0995 | INFO | Success to init MySQL instance
+2020-08-04 20:30:05 | 1596544205.1055 | INFO | Success to init Redis instance
+2020-08-04 20:30:05 | 1596544205.1076 | INFO | Success to init Redis instance
+2020-08-04 20:30:05 | 1596544205.1079 | INFO | Success to init Redis instance
+2020-08-04 20:30:05 | 1596544205.1082 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:30:05 | 1596544205.1095 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:30:05 | 1596544205.1107 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:30:07 | 1596544207.4913 | INFO | All is letter
+2020-08-04 20:30:07 | 1596544207.4942 | INFO | Search with pinyin
+2020-08-04 20:30:07 | 1596544207.4962 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC
+2020-08-04 20:30:07 | 1596544207.4982 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:31:42 | 1596544302.5996 | INFO | Worker 0 stop
+2020-08-04 20:31:42 | 1596544302.5999 | INFO | Worker 1 stop
+2020-08-04 20:31:42 | 1596544302.6000 | INFO | Worker 2 stop
+2020-08-04 20:31:44 | 1596544304.7325 | INFO | ======= HTTP master start =======
+2020-08-04 20:31:44 | 1596544304.8626 | INFO | Success to init MySQL instance
+2020-08-04 20:31:44 | 1596544304.8641 | INFO | Success to init MySQL instance
+2020-08-04 20:31:44 | 1596544304.8655 | INFO | Success to init MySQL instance
+2020-08-04 20:31:44 | 1596544304.8688 | INFO | Success to init MySQL instance
+2020-08-04 20:31:44 | 1596544304.8717 | INFO | Success to init MySQL instance
+2020-08-04 20:31:44 | 1596544304.8774 | INFO | Success to init Redis instance
+2020-08-04 20:31:44 | 1596544304.8780 | INFO | Success to init Redis instance
+2020-08-04 20:31:44 | 1596544304.8787 | INFO | Success to init Redis instance
+2020-08-04 20:31:44 | 1596544304.8796 | INFO | Worker 1 ready for connections ...
+2020-08-04 20:31:44 | 1596544304.8812 | INFO | Worker 0 ready for connections ...
+2020-08-04 20:31:44 | 1596544304.8825 | INFO | Worker 2 ready for connections ...
+2020-08-04 20:31:46 | 1596544306.2927 | INFO | All is letter
+2020-08-04 20:31:46 | 1596544306.2956 | INFO | Search with pinyin
+2020-08-04 20:31:46 | 1596544306.2977 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC
+2020-08-04 20:31:46 | 1596544306.2999 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:32:00 | 1596544320.1877 | INFO | SQL => SELECT * FROM products WHERE (tags LIKE '%清爽%') ORDER BY sort_order DESC
+2020-08-04 20:32:00 | 1596544320.1905 | INFO | Post params => {"query":"SELECT * FROM products WHERE (tags LIKE '%清爽%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:32:13 | 1596544333.2441 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') ORDER BY sort_order DESC
+2020-08-04 20:32:13 | 1596544333.2467 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:32:32 | 1596544352.6535 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') AND (price >= 1 AND price <= 33) ORDER BY sort_order DESC
+2020-08-04 20:32:32 | 1596544352.6561 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') AND (price >= 1 AND price <= 33) ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:32:32 | 1596544352.7067 | INFO | Nothing return
+2020-08-04 20:32:37 | 1596544357.1936 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') AND (price >= 1 AND price <= 55) ORDER BY sort_order DESC
+2020-08-04 20:32:37 | 1596544357.1957 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') AND (price >= 1 AND price <= 55) ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:32:37 | 1596544357.2462 | INFO | Nothing return
+2020-08-04 20:32:40 | 1596544360.9622 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') AND (price >= 1 AND price <= 1255) ORDER BY sort_order DESC
+2020-08-04 20:32:40 | 1596544360.9643 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%') AND (price >= 1 AND price <= 1255) ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:33:04 | 1596544384.8047 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%' AND tags LIKE '%轻奢%') AND (price >= 1 AND price <= 1255) ORDER BY sort_order DESC
+2020-08-04 20:33:04 | 1596544384.8074 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%裤子%') AND (tags LIKE '%清爽%' AND tags LIKE '%轻奢%') AND (price >= 1 AND price <= 1255) ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:33:17 | 1596544397.3911 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%裤子%') ORDER BY sort_order DESC
+2020-08-04 20:33:17 | 1596544397.3940 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%裤子%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:33:27 | 1596544407.3824 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%美邦%') ORDER BY sort_order DESC
+2020-08-04 20:33:27 | 1596544407.3853 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%美邦%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:33:27 | 1596544407.4531 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wE=
+2020-08-04 20:34:04 | 1596544444.8928 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:34:04 | 1596544444.9421 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wE=
+2020-08-04 20:35:12 | 1596544512.9961 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:35:13 | 1596544513.0424 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wE=
+2020-08-04 20:35:20 | 1596544520.4325 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:35:20 | 1596544520.4806 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wE=
+2020-08-04 20:35:26 | 1596544526.9146 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:35:26 | 1596544526.9573 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wE=
+2020-08-04 20:35:55 | 1596544555.3733 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:35:55 | 1596544555.4300 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wE=
+2020-08-04 20:36:09 | 1596544569.8837 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:36:10 | 1596544570.0845 | INFO | Nothing return
+2020-08-04 20:36:10 | 1596544570.0868 | INFO | Post params => {"cursor":"49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlNUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf\/\/\/\/8PEQFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP\/\/wE="}
+2020-08-04 20:36:10 | 1596544570.1312 | INFO | Closing cursor => {"succeeded":true}
+2020-08-04 20:36:14 | 1596544574.2871 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%优衣库男版春季时尚裤子%') ORDER BY sort_order DESC
+2020-08-04 20:36:14 | 1596544574.2890 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%优衣库男版春季时尚裤子%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:39:11 | 1596544751.3217 | INFO | Push to insert queue {"id":"1","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子,夏季","sort_order":"10","es_id":"D4ZvuXMBlQr4oNUEecod","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3282 | INFO | Push to insert queue {"id":"2","name":"美邦男版春季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"100.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子,春季","sort_order":"9","es_id":"EIZvuXMBlQr4oNUEfcqG","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3327 | INFO | Push to insert queue {"id":"3","name":"美邦男版秋季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"99.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,秋季","sort_order":"8","es_id":"EYZvuXMBlQr4oNUEgcqy","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3375 | INFO | Push to insert queue {"id":"4","name":"美邦男版冬季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meibang","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,冬季","sort_order":"10","es_id":"EoZvuXMBlQr4oNUEhcrm","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3420 | INFO | Push to insert queue {"id":"5","name":"优衣库男版春季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,轻奢","sort_order":"10","es_id":"E4ZvuXMBlQr4oNUEisoZ","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3466 | INFO | Push to insert queue {"id":"6","name":"优衣库男版夏季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"77.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽,轻奢","sort_order":"10","es_id":"FIZvuXMBlQr4oNUEjspI","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3512 | INFO | Push to insert queue {"id":"7","name":"优衣库男版秋季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"FYZvuXMBlQr4oNUEkspz","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3553 | INFO | Push to insert queue {"id":"8","name":"优衣库男版冬季时尚裤子","brand_id":"2","brand":"优衣库","brand_py":"yyk","brand_pinyin":"youyiku","category_id":"2","category":"裤子","category_py":"kz","category_pinyin":"kuzi","status":"1","price":"66.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,清爽","sort_order":"108","es_id":"FoZvuXMBlQr4oNUElsqn","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3598 | INFO | Push to insert queue {"id":"9","name":"以纯女版春季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"淡黄,花色,格子","sort_order":"10","es_id":"GIZvuXMBlQr4oNUEmsrT","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3645 | INFO | Push to insert queue {"id":"10","name":"以纯女版夏季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"260.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,夏季","sort_order":"10","es_id":"GYZvuXMBlQr4oNUEn8oB","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3690 | INFO | Push to insert queue {"id":"11","name":"以纯女版秋季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,秋季,清纯","sort_order":"7","es_id":"GoZvuXMBlQr4oNUEo8oz","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3737 | INFO | Push to insert queue {"id":"12","name":"以纯女版冬季时尚裙子","brand_id":"3","brand":"以纯","brand_py":"yc","brand_pinyin":"yichun","category_id":"3","category":"裙子","category_py":"qz","category_pinyin":"qunzi","status":"1","price":"102.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"冬季,花色,保暖","sort_order":"11","es_id":"G4ZvuXMBlQr4oNUEp8pj","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3782 | INFO | Push to insert queue {"id":"13","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,卫衣","sort_order":"10","es_id":"HIZvuXMBlQr4oNUEq8qw","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3827 | INFO | Push to insert queue {"id":"14","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,简约,格子","sort_order":"10","es_id":"HYZvuXMBlQr4oNUEr8ri","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3873 | INFO | Push to insert queue {"id":"15","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"55.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"大气,花色,格子","sort_order":"12","es_id":"HoZvuXMBlQr4oNUEtMoO","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3917 | INFO | Push to insert queue {"id":"16","name":"ZARA男版夏季时尚卫衣","brand_id":"1","brand":"ZARA","brand_py":"","brand_pinyin":"","category_id":"4","category":"卫衣","category_py":"wy","category_pinyin":"weiyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,大码,格子","sort_order":"10","es_id":"H4ZvuXMBlQr4oNUEuMo-","index":"products"}
+2020-08-04 20:39:11 | 1596544751.3959 | INFO | Push to insert queue {"id":"17","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"IIZvuXMBlQr4oNUEvMpt","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4002 | INFO | Push to insert queue {"id":"18","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"13","es_id":"IoZvuXMBlQr4oNUEwMqd","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4045 | INFO | Push to insert queue {"id":"19","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"77.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"I4ZvuXMBlQr4oNUExMrR","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4088 | INFO | Push to insert queue {"id":"20","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"114","es_id":"JIZvuXMBlQr4oNUEyMr-","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4130 | INFO | Push to insert queue {"id":"21","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"JYZvuXMBlQr4oNUEzcos","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4174 | INFO | Push to insert queue {"id":"22","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"120.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"15","es_id":"JoZvuXMBlQr4oNUE0cpf","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4218 | INFO | Push to insert queue {"id":"23","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"J4ZvuXMBlQr4oNUE1cqT","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4263 | INFO | Push to insert queue {"id":"24","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"16","es_id":"KIZvuXMBlQr4oNUE2cq_","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4306 | INFO | Push to insert queue {"id":"25","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88111.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"KYZvuXMBlQr4oNUE3cru","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4345 | INFO | Push to insert queue {"id":"26","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"525.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"KoZvuXMBlQr4oNUE4sor","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4392 | INFO | Push to insert queue {"id":"27","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"1018","es_id":"LIZvuXMBlQr4oNUE5spZ","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4436 | INFO | Push to insert queue {"id":"28","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"55.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"LYZvuXMBlQr4oNUE6sqH","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4480 | INFO | Push to insert queue {"id":"29","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"LoZvuXMBlQr4oNUE7sq5","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4523 | INFO | Push to insert queue {"id":"30","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"656.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"2","es_id":"L4ZvuXMBlQr4oNUE8sro","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4565 | INFO | Push to insert queue {"id":"31","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"MIZvuXMBlQr4oNUE98ob","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4609 | INFO | Push to insert queue {"id":"32","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"MYZvuXMBlQr4oNUE-8pL","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4653 | INFO | Push to insert queue {"id":"33","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"111.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"103","es_id":"MoZvuXMBlQr4oNUE_8p7","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4695 | INFO | Push to insert queue {"id":"34","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"M4ZwuXMBlQr4oNUEA8qr","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4737 | INFO | Push to insert queue {"id":"35","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"110.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"NIZwuXMBlQr4oNUEB8rg","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4776 | INFO | Push to insert queue {"id":"36","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"3","es_id":"NYZwuXMBlQr4oNUEDMoU","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4817 | INFO | Push to insert queue {"id":"37","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"N4ZwuXMBlQr4oNUEEMpF","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4860 | INFO | Push to insert queue {"id":"38","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"OIZwuXMBlQr4oNUEFMp5","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4899 | INFO | Push to insert queue {"id":"39","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"OYZwuXMBlQr4oNUEGMqq","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4942 | INFO | Push to insert queue {"id":"40","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"OoZwuXMBlQr4oNUEHMri","index":"products"}
+2020-08-04 20:39:11 | 1596544751.4982 | INFO | Push to insert queue {"id":"41","name":"美邦男版夏季时尚上衣","brand_id":"1","brand":"美邦","brand_py":"mb","brand_pinyin":"meiban","category_id":"1","category":"上衣","category_py":"sy","category_pinyin":"shangyi","status":"1","price":"88.00","date_added":"2020-08-04 18:23:58","sales":"155","tags":"时尚,花色,格子","sort_order":"10","es_id":"O4ZwuXMBlQr4oNUEIcoV","index":"products"}
+2020-08-04 20:39:21 | 1596544761.5456 | INFO | SQL => SELECT * FROM products WHERE (name LIKE '%优衣库男版春季时尚裤子%') ORDER BY sort_order DESC
+2020-08-04 20:39:21 | 1596544761.5482 | INFO | Post params => {"query":"SELECT * FROM products WHERE (name LIKE '%优衣库男版春季时尚裤子%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:40:35 | 1596544835.4753 | INFO | All is letter
+2020-08-04 20:40:35 | 1596544835.4778 | INFO | Search with pinyin
+2020-08-04 20:40:35 | 1596544835.4796 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC
+2020-08-04 20:40:35 | 1596544835.4814 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%yyk%' OR brand_pinyin LIKE '%yyk%' OR category_pinyin LIKE '%yyk%' OR category_py LIKE '%yyk%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:40:46 | 1596544846.7897 | INFO | All is letter
+2020-08-04 20:40:46 | 1596544846.7924 | INFO | Search with pinyin
+2020-08-04 20:40:46 | 1596544846.7944 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY sort_order DESC
+2020-08-04 20:40:46 | 1596544846.7963 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY sort_order DESC","fetch_size":10}
+2020-08-04 20:40:46 | 1596544846.8504 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnlzb1djekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 20:44:33 | 1596545073.8964 | INFO | All is letter
+2020-08-04 20:44:33 | 1596545073.8997 | INFO | Search with pinyin
+2020-08-04 20:44:33 | 1596545073.9017 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY date_added DESC
+2020-08-04 20:44:33 | 1596545073.9036 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY date_added DESC","fetch_size":10}
+2020-08-04 20:44:34 | 1596545074.0575 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnk4Y1djekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 20:44:36 | 1596545076.9183 | INFO | All is letter
+2020-08-04 20:44:36 | 1596545076.9209 | INFO | Search with pinyin
+2020-08-04 20:44:36 | 1596545076.9227 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY sales DESC
+2020-08-04 20:44:36 | 1596545076.9245 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY sales DESC","fetch_size":10}
+2020-08-04 20:44:37 | 1596545077.0705 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVnk4Z1djekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 20:44:39 | 1596545079.3886 | INFO | All is letter
+2020-08-04 20:44:39 | 1596545079.3908 | INFO | Search with pinyin
+2020-08-04 20:44:39 | 1596545079.3928 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price ASC
+2020-08-04 20:44:39 | 1596545079.3948 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price ASC","fetch_size":10}
+2020-08-04 20:44:39 | 1596545079.4475 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2s4VVdNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 20:44:42 | 1596545082.3675 | INFO | All is letter
+2020-08-04 20:44:42 | 1596545082.3704 | INFO | Search with pinyin
+2020-08-04 20:44:42 | 1596545082.3723 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-04 20:44:42 | 1596545082.3742 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-04 20:44:42 | 1596545082.4241 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2s4a1dNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 21:20:23 | 1596547223.7278 | INFO | All is letter
+2020-08-04 21:20:23 | 1596547223.7366 | INFO | Search with pinyin
+2020-08-04 21:20:23 | 1596547223.7386 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-04 21:20:23 | 1596547223.7407 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-04 21:20:23 | 1596547223.8992 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV25Jc1dNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 21:20:24 | 1596547224.5833 | INFO | All is letter
+2020-08-04 21:20:24 | 1596547224.5856 | INFO | Search with pinyin
+2020-08-04 21:20:24 | 1596547224.5875 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-04 21:20:24 | 1596547224.5896 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-04 21:20:24 | 1596547224.7312 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVjFVOFdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 21:20:49 | 1596547249.5194 | INFO | Worker 0 stop
+2020-08-04 21:20:49 | 1596547249.5196 | INFO | Worker 1 stop
+2020-08-04 21:20:49 | 1596547249.5198 | INFO | Worker 2 stop
+2020-08-04 21:20:51 | 1596547251.6828 | INFO | ======= HTTP master start =======
+2020-08-04 21:20:51 | 1596547251.8126 | INFO | Success to init MySQL instance
+2020-08-04 21:20:51 | 1596547251.8143 | INFO | Success to init MySQL instance
+2020-08-04 21:20:51 | 1596547251.8176 | INFO | Success to init MySQL instance
+2020-08-04 21:20:51 | 1596547251.8196 | INFO | Success to init MySQL instance
+2020-08-04 21:20:51 | 1596547251.8156 | INFO | Success to init MySQL instance
+2020-08-04 21:20:51 | 1596547251.8250 | INFO | Success to init Redis instance
+2020-08-04 21:20:51 | 1596547251.8257 | INFO | Success to init Redis instance
+2020-08-04 21:20:51 | 1596547251.8277 | INFO | Success to init Redis instance
+2020-08-04 21:20:51 | 1596547251.8284 | INFO | Worker 1 ready for connections ...
+2020-08-04 21:20:51 | 1596547251.8297 | INFO | Worker 0 ready for connections ...
+2020-08-04 21:20:51 | 1596547251.8311 | INFO | Worker 2 ready for connections ...
+2020-08-04 21:20:55 | 1596547255.4273 | INFO | All is letter
+2020-08-04 21:20:55 | 1596547255.4293 | INFO | Search with pinyin
+2020-08-04 21:20:55 | 1596547255.4322 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-04 21:20:55 | 1596547255.4343 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-04 21:20:55 | 1596547255.4973 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV25LZ1dNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 21:20:57 | 1596547257.1301 | INFO | All is letter
+2020-08-04 21:20:57 | 1596547257.1324 | INFO | Search with pinyin
+2020-08-04 21:20:57 | 1596547257.1343 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-04 21:20:57 | 1596547257.1362 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-04 21:20:57 | 1596547257.1941 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBVjFYY1djekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-04 21:21:17 | 1596547277.2247 | INFO | All is letter
+2020-08-04 21:21:17 | 1596547277.2276 | INFO | Search with pinyin
+2020-08-04 21:21:17 | 1596547277.2296 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-04 21:21:17 | 1596547277.2316 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-04 21:21:17 | 1596547277.2902 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV25NQVdNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:32:58 | 1596591178.7195 | INFO | All is letter
+2020-08-05 09:32:58 | 1596591178.7233 | INFO | Search with pinyin
+2020-08-05 09:32:58 | 1596591178.7252 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:32:58 | 1596591178.7271 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:32:59 | 1596591179.1743 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBWFZjTVdNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:32:59 | 1596591179.8411 | INFO | All is letter
+2020-08-05 09:32:59 | 1596591179.8431 | INFO | Search with pinyin
+2020-08-05 09:32:59 | 1596591179.8450 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:32:59 | 1596591179.8469 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:32:59 | 1596591179.9523 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2ttUVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:00 | 1596591180.0746 | INFO | All is letter
+2020-08-05 09:33:00 | 1596591180.0770 | INFO | Search with pinyin
+2020-08-05 09:33:00 | 1596591180.0791 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:00 | 1596591180.0812 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:00 | 1596591180.4021 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2ttb1djekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:00 | 1596591180.5390 | INFO | All is letter
+2020-08-05 09:33:00 | 1596591180.5413 | INFO | Search with pinyin
+2020-08-05 09:33:00 | 1596591180.5433 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:00 | 1596591180.5453 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:00 | 1596591180.6746 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2ttc1djekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:01 | 1596591181.0524 | INFO | All is letter
+2020-08-05 09:33:01 | 1596591181.0547 | INFO | Search with pinyin
+2020-08-05 09:33:01 | 1596591181.0568 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:01 | 1596591181.0589 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:01 | 1596591181.6345 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2tuQVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:01 | 1596591181.8346 | INFO | All is letter
+2020-08-05 09:33:01 | 1596591181.8377 | INFO | Search with pinyin
+2020-08-05 09:33:01 | 1596591181.8398 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:01 | 1596591181.8418 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:02 | 1596591182.1698 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBWFZjNFdNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:02 | 1596591182.7627 | INFO | All is letter
+2020-08-05 09:33:02 | 1596591182.7650 | INFO | Search with pinyin
+2020-08-05 09:33:02 | 1596591182.7670 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:02 | 1596591182.7691 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:02 | 1596591182.9699 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBWFZkSVdNWEJHUjFsaFEzWlRiVTlsTld4UWMzcERTUzFMZHc9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:03 | 1596591183.6826 | INFO | All is letter
+2020-08-05 09:33:03 | 1596591183.6848 | INFO | Search with pinyin
+2020-08-05 09:33:03 | 1596591183.6869 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:03 | 1596591183.6888 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:03 | 1596591183.9192 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2tuTVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
+2020-08-05 09:33:04 | 1596591184.4271 | INFO | All is letter
+2020-08-05 09:33:04 | 1596591184.4295 | INFO | Search with pinyin
+2020-08-05 09:33:04 | 1596591184.4316 | INFO | SQL => SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC
+2020-08-05 09:33:04 | 1596591184.4338 | INFO | Post params => {"query":"SELECT * FROM products WHERE (brand_py LIKE '%mb%' OR brand_pinyin LIKE '%mb%' OR category_pinyin LIKE '%mb%' OR category_py LIKE '%mb%') ORDER BY price DESC","fetch_size":10}
+2020-08-05 09:33:04 | 1596591184.6890 | INFO | Cursor => 49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV2tuVVdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
