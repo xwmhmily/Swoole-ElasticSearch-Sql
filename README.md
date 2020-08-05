@@ -8,6 +8,10 @@
 - git clone 至任意目录
 - 导入 mini.sql 至一MySQL 数据库
 - 确认安装了 Redis, PDO 等扩展
+- 确认安装了 Composer
+- 安装好 ELK 三套件, 或者云厂商直接按小时购买一个，省时省力省运维，付费即可用
 
 ### 配置
 - 设置 Env.php 中的 ENV 为 'DEV'
+- 配置 conf/DEV.php 中的 MySQL, Redis, ElasticSearch 参数
+- cd 至 library 目录下，运行 composer install 安装 ES 官方 SDK
