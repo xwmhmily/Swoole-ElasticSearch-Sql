@@ -119,4 +119,4 @@ curl "http://127.0.0.1:8888/product/rebuild"
 
 ### 交个朋友还是请个猪脚饭
 (⊙v⊙)嗯，最近吃土啃纸，如果该项目对你有些帮助，交个朋友还是请个猪脚饭的请扫码
-![image](https://github.com/xwmhmily/Swoole-ElasticSearch-Sql/blob/master/qr.jpg）
+![image](https://github.com/xwmhmily/Swoole-ElasticSearch-Sql/blob/master/qr.jpg)
