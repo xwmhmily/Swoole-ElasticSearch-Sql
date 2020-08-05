@@ -6,6 +6,9 @@
 ### ElasticSearch-sql 官方文档
 https://www.elastic.co/cn/what-is/elasticsearch-sql
 
+### MiniHttp (Base on Swoole) 文档
+https://github.com/xwmhmily/miniHttp
+
 ### 安装
 - 安装 PHP 7+, Swoole 4+ (否则使用不了协程)
 - git clone 至任意目录
