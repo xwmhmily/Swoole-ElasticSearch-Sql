@@ -1,5 +1,5 @@
 ## Use Swoole and ElasticSearch-sql to search data on ElasticSearch
-搜索一直是个比较麻烦的事情, 直接查 MySQL 性能与IO 又不太好, ElasticSearch 将数据存储，索引，搜索变得简单，但 DSL 和搜索模式也是花样多多，语法不容易熟悉，鉴于 SQL 在数据库方面的强大应用和方便易记，ElasticSearch 推出了 ElasticSearch-sql, 利用 SQL 来查询 ELK 上面的数据。Niceeee.... 问题又来了，如何根据搜索的各种各样的情况组装 SQL 又成了头疼的事了，数据如何导入？ 索引如何创建？文档如何更新与删除？如何搜索与分页？会不会有什么坑呢？又如何与业务结合呢？经过一番摸索和躺坑，得出了此项目
+搜索一直是个比较麻烦的事情, 直接查 MySQL 性能与IO 又不太好, ElasticSearch 将数据存储，索引，搜索变得简单，但 DSL 和搜索模式也是花样多多，语法不容易熟悉，鉴于 SQL 在数据库方面的强大应用和方便易记，ElasticSearch 推出了 ElasticSearch-sql, 利用 SQL 来查询 ELK 上面的数据。Niceeee.... 问题又来了，如何根据搜索的各种各样的情况组装 SQL 又成了头疼的事了，数据如何导入？ 索引如何创建？文档如何更新与删除？如何搜索与分页？会不会有什么坑呢？又如何与业务结合呢？经过一番摸索和躺坑(⊙v⊙)，得出了此项目
 
 ### ElasticSearch-sql 官方文档
 https://www.elastic.co/cn/what-is/elasticsearch-sql
@@ -54,7 +54,7 @@ Swoole-ElasticSearch-Sql_Remove
 SELECT * FROM products WHERE (name LIKE '%美邦%') AND (tags LIKE '%时尚%' AND tags LIKE '%格子%') AND (price >= 1 AND price <= 12550) ORDER BY price DESC
 ```
 ### 分页
-- 有点不巧, ElasticSearch-sql 出于安全与性能考虑，只支持 SQL Limit, 而不支持 offset，但分页又是必须的，咋整呢？( ⊙o⊙ )? 莫方, 官方给了另一个方案：使用游标。当搜索返回的数据有 cursor 时, 我们取回来，传给客户端，客户端分页时，带上这个 cursor，我们请求 ES 时再带过去，即可，像酱紫
+- 有点不巧, ElasticSearch-sql 出于安全与性能考虑，只支持 SQL Limit, 而不支持 offset，但分页又是必须的，咋整呢？( ⊙o⊙ ) 莫方, 官方给了另一个方案：使用游标。当搜索返回的数据有 cursor 时, 我们取回来，传给客户端，客户端分页时，带上这个 cursor，我们请求 ES 时再带过去，即可，像酱紫
 ```
 http://127.0.0.1:8888/search?keyword=%E7%BE%8E%E9%82%A6&tags=%E6%97%B6%E5%B0%9A,%E6%A0%BC%E5%AD%90&pricex=1,12550&sort=4&cursor=49itAwFaAXNARFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFBV3BrOFdjekZuTkdodFN6UlNNRWRRUW1STlJEZElXVWQzVVE9Pf////8PEgFmBWJyYW5kAQVicmFuZAEEdGV4dAAAAAFmCGJyYW5kX2lkAQhicmFuZF9pZAEEbG9uZwAAAAFmDGJyYW5kX3BpbnlpbgEMYnJhbmRfcGlueWluAQR0ZXh0AAAAAWYIYnJhbmRfcHkBCGJyYW5kX3B5AQR0ZXh0AAAAAWYIY2F0ZWdvcnkBCGNhdGVnb3J5AQR0ZXh0AAAAAWYLY2F0ZWdvcnlfaWQBC2NhdGVnb3J5X2lkAQRsb25nAAAAAWYPY2F0ZWdvcnlfcGlueWluAQ9jYXRlZ29yeV9waW55aW4BBHRleHQAAAABZgtjYXRlZ29yeV9weQELY2F0ZWdvcnlfcHkBBHRleHQAAAABZgpkYXRlX2FkZGVkAQpkYXRlX2FkZGVkAQR0ZXh0AAAAAWYFZXNfaWQBBWVzX2lkAQR0ZXh0AAAAAWYCaWQBAmlkAQR0ZXh0AAAAAWYEbmFtZQEEbmFtZQEEdGV4dAAAAAFmBXByaWNlAQVwcmljZQEFZmxvYXQAAAABZgpwcm9kdWN0X2lkAQpwcm9kdWN0X2lkAQRsb25nAAAAAWYFc2FsZXMBBXNhbGVzAQR0ZXh0AAAAAWYKc29ydF9vcmRlcgEKc29ydF9vcmRlcgEEdGV4dAAAAAFmBnN0YXR1cwEGc3RhdHVzAQR0ZXh0AAAAAWYEdGFncwEEdGFncwEEdGV4dAAAAAP//wM=
 ```
