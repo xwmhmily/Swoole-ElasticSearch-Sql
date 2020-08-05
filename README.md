@@ -14,4 +14,4 @@
 ### 配置
 - 设置 Env.php 中的 ENV 为 'DEV'
 - 配置 conf/DEV.php 中的 MySQL, Redis, ElasticSearch 参数
-- cd 至 library 目录下，运行 composer install 安装 ES 官方 SDK
+- cd 至 library 目录下，运行 composer install 安装 ElasticSearch 官方的客户 PHP SDK
