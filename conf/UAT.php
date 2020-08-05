@@ -3,7 +3,7 @@
 $config = [
 	'common' => [
 		'app_name'                 => 'Swoole-ElasticSearch-Sql',
-		'app_version'              => '2.0',
+		'app_version'              => '1.0',
 		'tb_pk'                    => 'id',
 		'tb_prefix'                => 'oc_',
 		'tb_suffix_sf'             => '_',
@@ -44,7 +44,7 @@ $config = [
 
 	'mysql' => [
 		'required' => true,
-		'db'   => 'test',
+		'db'   => 'mall',
 		'host' => '127.0.0.1',
 		'port' => 3306,
 		'user' => 'root',
@@ -70,17 +70,19 @@ $config = [
 	],
 
 	'elasticsearch' => [
-		'host' => 'es-cn-zz11qxwk0000ytcg5.public.elasticsearch.aliyuncs.com',
+		'host' => 'Your_es_host.com',
 		'port' => '9200',
 		'scheme' => 'http',
 		'user' => 'elastic',
-		'pass' => 'Tongshang2020$',
-		'queue_insert' => 'es_insert',
-		'queue_remove' => 'es_remove',
-		'page_size' => 20,
-		'format' => 'json',
-		'use_or' => false,
-		'sql_function' => '_sql',
+		'pass' => 'Yourpassword',
+		'queue_insert'  => 'swoole_es_insert',
+		'queue_remove'  => 'swoole_es_remove',
+		'index'         => 'products',
+		'page_size'     => 10,
+		'format'        => 'json',
+		'sql_function'  => '_sql',
+		'pinyin_fields' => ['brand_py', 'brand_pinyin', 'category_pinyin', 'category_py'],
+		'return_fields' => '*',
 	],
 
 	'process' => [

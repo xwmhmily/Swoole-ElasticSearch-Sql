@@ -70,11 +70,11 @@ $config = [
 	],
 
 	'elasticsearch' => [
-		'host' => 'es-cn-zz11qxwk0000ytcg5.public.elasticsearch.aliyuncs.com',
+		'host' => 'Your_es_host.com',
 		'port' => '9200',
 		'scheme' => 'http',
 		'user' => 'elastic',
-		'pass' => 'Tongshang2020$',
+		'pass' => 'Yourpassword',
 		'queue_insert'  => 'swoole_es_insert',
 		'queue_remove'  => 'swoole_es_remove',
 		'index'         => 'products',
