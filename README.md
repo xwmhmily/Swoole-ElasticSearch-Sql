@@ -31,10 +31,10 @@
 
 ### 搜索
 - cd 至 client 目录, 执行 php http.php
-- 或者 CLI 下 curl "http://127.0.0.1:8888/search?keyword=%E7%BE%8E%E9%82%A6&tags=%E6%97%B6%E5%B0%9A,%E6%A0%BC%E5%AD%90&pricex=1,12550&sort=4"
+- 或者 CLI 下 curl "http://127.0.0.1:8888/search?keyword=%E7%BE%8E%E9%82%A6&tags=%E6%97%B6%E5%B0%9A,%E6%A0%BC%E5%AD%90&price=1,12550&sort=4"
 > 日志中生成的 SQL 是酱紫的：
 ```
-SELECT * FROM products WHERE (name LIKE '%美邦%') AND (tags LIKE '%时尚%' AND tags LIKE '%格子%') ORDER BY price DESC
+SELECT * FROM products WHERE (name LIKE '%美邦%') AND (tags LIKE '%时尚%' AND tags LIKE '%格子%') AND (price >= 1 AND price <= 12550) ORDER BY price DESC
 ```
 ### 分页
 - 有点不巧, ElasticSearch-sql 出于安全与性能考虑，只支持 SQL Limit, 而不支持 offset，但分页又是必须的，咋整呢？( ⊙o⊙ )? 莫方, 官方给了另一个方案：使用游标。当搜索返回的数据有 cursor 时, 我们取回来，传给客户端，客户端分页时，带上这个 cursor，我们请求 ES 时再带过去，即可，像酱紫
