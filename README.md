@@ -119,6 +119,9 @@ curl "http://127.0.0.1:8888/product/rebuild"
 - Crond 定时运行 shell/socket.sh heartbeat 检测 API
 - Crond 定时运行 shell/process.sh 检测后端进程
 
+### 啥，还想要语音搜索？
+- 接个 ASR + 分词不就妥妥的吗
+
 ### 交个朋友还是请个猪脚饭
 (⊙v⊙)嗯，最近吃土啃纸，如果该项目对你有些帮助，交个朋友还是请个猪脚饭的请扫码<br />
 ![image](https://github.com/xwmhmily/Swoole-ElasticSearch-Sql/blob/master/qr.jpg)
