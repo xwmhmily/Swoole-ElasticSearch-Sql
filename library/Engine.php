@@ -11,111 +11,104 @@ class Engine {
 
 	private static $m_product;
 
-	private static $url;
-	private static $closeUrl;
+	private $url;
+	private $closeUrl;
 
-	private static $page_size;
-	private static $is_all_letter;
+	private $page_size;
+	private $is_all_letter;
 
-	private static $tags;
-	private static $keyword;
-	private static $price;
-	private static $low_price;
-	private static $high_price;
-	private static $sort;
-	private static $cursor;
-	private static $brand_id;
-	private static $category_id;
-	private static $pinyin_fields;
-	private static $return_fields;
+	private $tags;
+	private $keyword;
+	private $price;
+	private $low_price;
+	private $high_price;
+	private $sort;
+	private $cursor;
+	private $brand_id;
+	private $category_id;
+	private $pinyin_fields;
+	private $return_fields;
 
-	private static function getPageSize(){
-		return Config::get('elasticsearch', 'page_size');
-	}
-
-	private static function init(){
-		if(!self::$m_product){
-			self::$m_product = Helper::load('Product');
-		}
-
-		if(!self::$page_size){
-			self::$page_size = self::getPageSize();
-		}
-
-		if(!self::$pinyin_fields){
-			self::$pinyin_fields = self::getPinyinFields();
-		}
-
-		if(!self::$return_fields){
-			self::$return_fields = self::getReturnFields();
-		}
-
-		return true;
-	}
-
-	private static function getReturnFields(){
-		return Config::get('elasticsearch', 'return_fields');
-	}
-
-	private static function getPinyinFields(){
-		return Config::get('elasticsearch', 'pinyin_fields');
-	}
-
-	private static function isAllLetter($keyword){
-		return preg_match("/^[a-z]*$/i", $keyword);
-	}
-
-	private static function initParam($keyword, $tags = '', $price = '', $brand_id = '', $category_id = '', $cursor = '', $sort = ''){
+	function __construct($keyword, $tags = '', $price = '', $brand_id = '', $category_id = '', $cursor = '', $sort = self::SORT_TYPE_PRICE_ASC){
 		if($keyword){
 			$search = ['\\\'', '\"'];
 			$keyword = str_replace($search, '', $keyword);
-			if(self::isAllLetter($keyword)){
-				self::$is_all_letter = true;
+			if($this->isAllLetter($keyword)){
+				$this->is_all_letter = true;
 				Logger::log('All is letter');
 			}else{
 				$keyword = str_replace('*', 'x', $keyword);
 			}
 
-			self::$keyword = $keyword;
+			$this->keyword = $keyword;
 		}
 
 		if($brand_id){
-			self::$brand_id = intval($brand_id);
+			$this->brand_id = intval($brand_id);
 		}
 
 		if($category_id){
-			self::$category_id = intval($category_id);
+			$this->category_id = intval($category_id);
 		}
 
 		if($tags){
-			self::$tags = $tags;
+			$this->tags = $tags;
 		}
 
 		if($cursor){
-			self::$cursor = $cursor;
+			$this->cursor = $cursor;
 		}
 
 		if($sort){
-			self::$sort = intval($sort);
+			$this->sort = intval($sort);
 		}
 
 		if($price){
-			self::$price = $price;
+			$this->price = $price;
 			list($low, $high) = explode(self::KEYWORD_SEPERATOR, $price);
 			if($low){
-				self::$low_price = intval($low);
+				$this->low_price = intval($low);
 			}
 
 			if($high){
-				self::$high_price = intval($high);
+				$this->high_price = intval($high);
 			}
 		}
+
+		$this->init();
+		$this->initUrl();
+	}
+
+	private function getPageSize(){
+		return Config::get('elasticsearch', 'page_size');
+	}
+
+	private function init(){
+		if(!self::$m_product){
+			self::$m_product = Helper::load('Product');
+		}
+
+		$this->page_size     = $this->getPageSize();
+		$this->pinyin_fields = $this->getPinyinFields();
+		$this->return_fields = $this->getReturnFields();
 
 		return true;
 	}
 
-	private static function initUrl(){
-		if(!self::$url){
+	private function getReturnFields(){
+		return Config::get('elasticsearch', 'return_fields');
+	}
+
+	private function getPinyinFields(){
+		return Config::get('elasticsearch', 'pinyin_fields');
+	}
+
+	private function isAllLetter($keyword){
+		return preg_match("/^[a-z]*$/i", $keyword);
+	}
+
+	private function initUrl(){
+		if(!$this->url){
 			$host   = Config::get('elasticsearch', 'host');
 			$port   = Config::get('elasticsearch', 'port');
 			$user   = Config::get('elasticsearch', 'user');
@@ -126,48 +119,45 @@ class Engine {
 
 			$base_url = $scheme.'://'.$user.':'.$pass.'@'.$host.':'.$port.'/'.$sql_function;
 
-			self::setUrl($base_url, $format);
-			self::setCloseUrl($base_url);
+			$this->setUrl($base_url, $format);
+			$this->setCloseUrl($base_url);
 		}
 		
 		return true;
 	}
 
-	private static function setUrl($base_url, $format){
-		self::$url = $base_url.'/?format='.$format;
+	private function setUrl($base_url, $format){
+		$this->url = $base_url.'/?format='.$format;
 		return true;
 	}
 
-	private static function setCloseUrl($base_url){
-		self::$closeUrl = $base_url.'/'.self::MATCH_FUNCTION_CLOSE_SQL;
+	private function setCloseUrl($base_url){
+		$this->closeUrl = $base_url.'/'.self::MATCH_FUNCTION_CLOSE_SQL;
 		return true;
 	}
 
-	public static function search($keyword, $tags = '', $price = '', $brand_id = '', $category_id = '', $cursor = '', $sort = self::SORT_TYPE_PRICE_ASC){
-		self::init();
-		self::initUrl();
-		self::initParam($keyword, $tags, $price, $brand_id, $category_id, $cursor, $sort);
-		$retval = self::request();
-		self::reset();
+	public function search(){
+		$retval = $this->request();
+		$this->reset();
 		return $retval;
 	}
 
-	private static function getPinyinField(){
-		return self::$pinyin_fields;
+	private function getPinyinField(){
+		return $this->pinyin_fields;
 	}
 
-	private static function getReturnField(){
-		return self::$return_fields;
+	private function getReturnField(){
+		return $this->return_fields;
 	}
 
-	private static function getHeader(){
+	private function getHeader(){
 		$header = [];
 		$header = ["Content-type:application/json;charset='utf-8'", "Accept:application/json"];
 
 		return $header;
 	}
 
-	private static function clearSql($sql){
+	private function clearSql($sql){
 		$search = ['`', TB_PREFIX];
 		$sql = str_replace($search, '', $sql);
 
@@ -177,28 +167,28 @@ class Engine {
 		return $sql;
 	}
 
-	private static function buildSql(){
+	private function buildSql(){
 		$where = [];
 		$where_category_id_string = '';
 		$where_name_string = $where_tags_string = $where_price_string = '';
 
-		if(self::$brand_id){
-			$where['brand_id'] = self::$brand_id;
+		if($this->brand_id){
+			$where['brand_id'] = $this->brand_id;
 		}
 
-		if(self::$category_id){
-			$where['category_id'] = self::$category_id;
+		if($this->category_id){
+			$where['category_id'] = $this->category_id;
 		}
 
-		if(self::$keyword){
+		if($this->keyword){
 			$where_name_string = '(';
-			if(self::$is_all_letter){
+			if($this->is_all_letter){
 				Logger::log('Search with pinyin');
-				$pinyin_fields = self::getPinyinField();
+				$pinyin_fields = $this->getPinyinField();
 				if($pinyin_fields){
 					$i = 1;
 					foreach($pinyin_fields as $field){
-						$where_name_string .= $field.' LIKE "%'.self::$keyword.'%"';
+						$where_name_string .= $field.' LIKE "%'.$this->keyword.'%"';
 						if($i != sizeof($pinyin_fields)){
 							$where_name_string .= ' OR ';
 						}
@@ -206,7 +196,7 @@ class Engine {
 					}
 				}
 			}else{
-				$keyword_arr = explode(self::KEYWORD_SEPERATOR, self::$keyword);
+				$keyword_arr = explode(self::KEYWORD_SEPERATOR, $this->keyword);
 
 				$i = 1;
 				foreach($keyword_arr as $keyword){
@@ -223,28 +213,28 @@ class Engine {
 			$where_name_string .= ')';
 		}
 
-		if(self::$low_price || self::$high_price){
+		if($this->low_price || $this->high_price){
 			$where_price_string = '(';
 		}
 
-		if(self::$low_price){
-			$where_price_string .= 'price >= '.self::$low_price;
+		if($this->low_price){
+			$where_price_string .= 'price >= '.$this->low_price;
 		}
 
-		if(self::$high_price){
-			if(self::$low_price){
+		if($this->high_price){
+			if($this->low_price){
 				$where_price_string .= ' AND ';
 			}
-			$where_price_string .= 'price <= '.self::$high_price;
+			$where_price_string .= 'price <= '.$this->high_price;
 		}
 
-		if(self::$low_price || self::$high_price){
+		if($this->low_price || $this->high_price){
 			$where_price_string .= ')';
 		}
 
-		if(self::$tags){
+		if($this->tags){
 			$where_tags_string .= '(';
-			$tag_arr = explode(',', self::$tags);
+			$tag_arr = explode(',', $this->tags);
 
 			$j = 1;
 			foreach($tag_arr as $tag){
@@ -259,17 +249,17 @@ class Engine {
 			$where_tags_string .= ')';
 		}
 
-		$order = self::buildSort();
-		$field = self::getReturnField();
+		$order = $this->buildSort();
+		$field = $this->getReturnField();
 
 		$sql = self::$m_product->Field($field)->Where($where)->Where($where_name_string)->Where($where_tags_string)->Where($where_price_string)->Where($where_category_id_string)->Order($order)->generateSQL();
 
-		return self::clearSql($sql);
+		return $this->clearSql($sql);
 	}
 
-	private static function buildSort(){
+	private function buildSort(){
 		$sort_key = $sort_val = '';
-		switch (self::$sort) {
+		switch ($this->sort) {
             case self::SORT_TYPE_NEWEST:
 				$sort_key = 'date_added';
 				$sort_val = 'DESC';
@@ -298,17 +288,17 @@ class Engine {
 		return [$sort_key => $sort_val];
 	}
 
-	private static function resetSql(){
+	private function resetSql(){
 		self::$m_product->resetOption();
 	}
 
-	private static function buildPost(){
+	private function buildPost(){
 		$post = [];
-		if(self::$cursor){
-			$post['cursor'] = self::$cursor;
+		if($this->cursor){
+			$post['cursor'] = $this->cursor;
 		}else{
-			$post['query']      = self::buildSql();
-			$post['fetch_size'] = self::$page_size;
+			$post['query']      = $this->buildSql();
+			$post['fetch_size'] = $this->page_size;
 		}
 
 		if(ENV == 'DEV'){
@@ -318,8 +308,8 @@ class Engine {
 		return $post;
 	}
 
-	private static function request(){
-		$json = self::performRequest(self::$url);
+	private function request(){
+		$json = $this->performRequest($this->url);
 		$retval = json_decode($json, true);
 
 		$cursor = '';
@@ -330,7 +320,7 @@ class Engine {
 					Logger::log('Cursor => '.$cursor);
 				}
 			}else{
-				self::closeCursor();
+				$this->closeCursor();
 			}
 
 			$rep = [];
@@ -338,15 +328,15 @@ class Engine {
 			$rep['rows']   = $retval['rows'];
 			return $rep;
 		}else{
-			self::closeCursor();
+			$this->closeCursor();
 			Logger::error('Retval => '.$json);
 			return null;
 		}
 	}
 
-	final private static function performRequest($url){
-		$header = self::getHeader();
-		$post   = self::buildPost();
+	final private function performRequest($url){
+		$header = $this->getHeader();
+		$post   = $this->buildPost();
 		$json   = HttpClient::post($url, JSON($post), $header);
 		$retval = json_decode($json, true);
 
@@ -358,26 +348,26 @@ class Engine {
 		return $json;
 	}
 
-	private static function closeCursor(){
-		if(self::$cursor){
-			$json = self::performRequest(self::$closeUrl);
+	private function closeCursor(){
+		if($this->cursor){
+			$json = $this->performRequest($this->closeUrl);
 			Logger::log('Closing cursor => '.$json);
-			self::$cursor = null;
+			$this->cursor = null;
 		}
 		return true;
 	}
 
-	private static function reset(){
-		self::resetSql();
-		self::$low_price     	   = null;
-		self::$high_price    	   = null;
-		self::$keyword       	   = null;
-		self::$tags          	   = null;
-		self::$price         	   = false;
-		self::$is_all_letter 	   = false;
-		self::$sort          	   = null;
-		self::$brand_id            = null;
-		self::$category_id         = null;
+	private function reset(){
+		$this->resetSql();
+		$this->low_price     = null;
+		$this->high_price    = null;
+		$this->keyword       = null;
+		$this->tags          = null;
+		$this->price         = false;
+		$this->is_all_letter = false;
+		$this->sort          = null;
+		$this->brand_id      = null;
+		$this->category_id   = null;
 
 		return true;
 	}

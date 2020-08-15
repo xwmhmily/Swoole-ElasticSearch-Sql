@@ -13,7 +13,8 @@ class C_Search extends Controller{
         $price  = $this->getParam('price');
         $cursor = $this->getParam('cursor');
         $sort   = $this->getParam('sort');
-        $retval = Engine::search($keyword, $tags, $price, $brand_id, $category_id, $cursor, $sort);
+        $enging = new Engine($keyword, $tags, $price, $brand_id, $category_id, $cursor, $sort);
+        $retval = $enging->search();
 
         $end_time = Logger::getMicrotime();
         $rep['start']  = $start_time;
