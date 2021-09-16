@@ -5,7 +5,7 @@ require LIB_PATH.'/pinyin.php';
 
 class ES {
 
-	const INDEX_PRODUCT         = 'products';
+	const INDEX_PRODUCT         = 'product';
 	const ES_INDEX_CREATED_TEXT = 'created';
 	const ES_INDEX_UPDATED_TEXT = 'updated';
 	const ES_INDEX_DELETED_TEXT = 'deleted';
